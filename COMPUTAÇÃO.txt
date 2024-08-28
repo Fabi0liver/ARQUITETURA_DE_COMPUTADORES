@@ -380,4 +380,26 @@ conhecimento com discernimento e julgamento criterioso.
  Esse processo é fundamental para todas as aplicações da computação, desde o mais simples até o mais complexo, 
 ajudando a humanidade a tomar decisões mais informadas e sensatas, aproveitando o poder das máquinas para melhorar 
 nossa vida e sociedade.
+
+
+
+                                  "Conclusão sobre Computação"
+
+ A computação é um campo fundamental que abrange o estudo e a aplicação de processos e tecnologias para a 
+manipulação e análise de dados. Desde os seus primórdios, desde as primeiras máquinas até os modernos sistemas de 
+computadores e redes, a computação tem desempenhado um papel crucial na evolução da sociedade e da tecnologia. Ela 
+envolve não apenas o desenvolvimento de hardware e software, mas também a compreensão dos princípios básicos que 
+permitem a solução de problemas e a inovação tecnológica.
+
+ Os aspectos centrais da computação incluem o processamento de dados, que se refere à transformação de dados 
+brutos em informações úteis; a gestão da informação, que busca organizar e contextualizar dados para facilitar a 
+tomada de decisões; e o conhecimento e a sabedoria, que envolve a aplicação prática da informação e do 
+conhecimento adquirido para resolver problemas complexos e fazer escolhas informadas. A interatividade, por sua 
+vez, permite a comunicação dinâmica entre usuários e sistemas, enriquecendo a experiência e a eficiência.
+
+ Em resumo, a computação não é apenas uma área técnica, mas um campo interligado com muitos aspectos da vida 
+moderna. Compreender seus princípios e aplicações é crucial para aproveitar ao máximo as tecnologias disponíveis e 
+para enfrentar os desafios do futuro.
+
+
  

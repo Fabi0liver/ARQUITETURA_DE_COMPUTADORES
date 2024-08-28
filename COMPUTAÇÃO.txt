@@ -1,0 +1,39 @@
+                                            COMPUTAÇÃO
+
+ 
+ Computação é um campo da ciência dedicado ao estudo de métodos, sistemas e processos para manipular informações 
+de maneira eficiente e automatizada. A palavra "computação" deriva do latim 'computare', que significa 
+"calcular", mas a computação moderna vai muito além dos cálculos simples. Ela envolve a criação e uso de 
+dispositivos eletrônicos, como computadores, para uma vasta gama de operações, desde as mais simples, como somar 
+ou subtrair números, até as mais complexas, como identificar padrões em grandes volumes de dados ou simular 
+características naturais.
+
+ O núcleo da computação não é processamento de informações. Isso significa que ela lida com a transformação de 
+dados brutos, que podem ser números, textos, imagens ou qualquer outro tipo de informação, em resultados úteis e 
+significativos. Este processamento é através de operações lógicas e matemáticas que são realizadas por máquinas, 
+seguindo instruções previamente programadas por seres humanos. Essas instruções são geralmente chamadas de 
+algoritmos, que são conjuntos de regras ou etapas a serem seguidas para resolver problemas específicos.
+
+ Além do processamento, a computação também se preocupa com o armazenamento de dados. Isso envolve não apenas 
+guardar informações para uso futuro, mas também organizá-las de maneira que possam ser facilmente acessadas e 
+manipuladas quando necessário. Este aspecto é crucial num mundo onde o volume de dados gerados diariamente é 
+imenso, e onde a capacidade de aceder rapidamente a essas informações pode ser segura em muitas áreas, como 
+negócios, saúde e ciência.
+
+ Outro aspecto importante da computação é a automação. Uma das grandes vantagens dos sistemas computacionais é sua 
+capacidade de realizar tarefas repetitivas ou complexas de forma muito mais rápida e precisa do que seria possível 
+manualmente. Com uma programação adequada, um computador pode executar essas tarefas de maneira autônoma, 
+liberando as pessoas para se concentrarem em atividades que desbloqueiam mais criatividade e pensamento crítico.
+
+ A computação também envolve a interação entre seres humanos e máquinas. Essa interação é facilitada por 
+interfaces de usuário, como telas, teclados e mouses, que permitem que as pessoas comuniquem seu interesse ao 
+computador e recebam feedback de maneira eficiente. Essa interatividade é fundamental para tornar a computação 
+acessível e útil no dia a dia, permitindo que usuários de diferentes níveis de conhecimento técnico possam 
+aproveitar os benefícios dos sistemas computacionais.
+
+ Em resumo, a computação é a ciência que estuda como processar, armazenar e automatizar o uso de informações por 
+meio de máquinas. É um campo vasto e em constante evolução, que desempenha um papel central na vida moderna, 
+influenciando desde a economia e a educação até a saúde e o entretenimento. A seguir, exploraremos mais 
+detalhadamente os diferentes tipos e evoluções dentro da história da computação.
+
+ 

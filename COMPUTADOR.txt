@@ -1,0 +1,83 @@
+                                        COMPUTADOR
+
+
+ Um computador é uma máquina eletrônica desenvolvida para realizar operações lógicas e aritméticas de forma 
+automática, seguindo um conjunto de instruções conhecido como programa. Essencialmente, ele é uma ferramenta 
+extremamente versátil, capaz de lidar com diferentes tipos de dados, como números, textos, imagens e sons, 
+convertendo-os em informações que podem ser utilizadas de diversas maneiras.
+
+ O conceito de um computador vai além de uma simples máquina de cálculo; ele é uma plataforma universal de 
+processamento de dados. Isso significa que, ao ser programado corretamente, ele pode executar uma vasta gama de 
+tarefas, desde as mais simples, como realizar cálculos matemáticos, até as mais complexas, como simular fenômenos 
+físicos, processar grandes volumes de dados ou até mesmo interagir com o mundo físico por meio de dispositivos 
+externos.
+
+ Uma das características mais impressionantes de um computador é a sua capacidade de realizar essas operações de 
+forma automática e extremamente rápida. Ele não apenas processa dados, mas também pode armazená-los, manipulá-los, 
+e, o mais importante, fazer isso de maneira repetitiva e precisa, sem a necessidade de intervenção humana 
+constante. Isso o torna uma ferramenta indispensável em praticamente todas as áreas do conhecimento e da 
+indústria, desde a pesquisa científica até o entretenimento digital.
+
+ A natureza programável do computador é o que lhe confere essa versatilidade. Diferentemente de outras máquinas 
+que são construídas para uma função específica, o computador pode ser reconfigurado para realizar novas tarefas 
+apenas alterando as instruções que ele segue. Esse aspecto programável o torna uma ferramenta poderosa e 
+adaptável, capaz de evoluir junto com as necessidades tecnológicas e sociais.
+
+
+                              "A Natureza do Computador"
+
+ A natureza do computador é definida por sua capacidade de ser uma máquina universal, ou seja, uma máquina que 
+pode ser programada para realizar qualquer tarefa que possa ser descrita em termos de operações lógicas e 
+aritméticas. Essa universalidade é o que distingue o computador de outras máquinas que foram construídas para 
+funções específicas, como uma calculadora que apenas realiza operações matemáticas básicas ou uma máquina de 
+escrever que apenas imprime texto em papel.
+
+- Programabilidade: O aspecto mais fundamental da natureza do computador é sua programabilidade. Isso significa 
+ que um computador não é limitado a uma única função; ao contrário, ele pode ser reconfigurado para realizar uma 
+ variedade de tarefas simplesmente alterando as instruções que ele segue. Essas instruções são conhecidas como 
+ software, e podem ser criadas para dirigir o computador em tudo, desde o processamento de texto até a modelagem 
+ de fenômenos físicos complexos. A flexibilidade para se adaptar a diferentes tarefas por meio do software faz do 
+ computador uma ferramenta incrivelmente versátil.
+
+- Máquina de Turing Universal: Em termos teóricos, um computador pode ser comparado a uma Máquina de Turing 
+ Universal, um conceito da ciência da computação que define um dispositivo capaz de simular qualquer outro 
+ dispositivo de computação, dado o tempo e os recursos necessários. Isso significa que, teoricamente, qualquer 
+ computação que pode ser realizada por uma máquina pode ser realizada por um computador, desde que ele seja 
+ suficientemente poderoso e tenha a programação adequada.
+
+- Abstração e Camadas: Outro aspecto crucial da natureza do computador é a abstração. O computador opera em  
+ diferentes níveis de abstração, onde as operações complexas que vemos como usuários finais são, na verdade, 
+ compostas de muitas operações simples executadas em níveis mais baixos. Por exemplo, quando você move um arquivo 
+ de uma pasta para outra, o computador está realizando uma série de operações muito mais básicas no nível do 
+ hardware, como mover bits de informação de um local de memória para outro.
+
+  Essas operações básicas são abstraídas em camadas de complexidade crescente, desde o nível do hardware, passando 
+ pelo sistema operacional, até o nível do software aplicativo. Cada camada esconde a complexidade da camada 
+ abaixo, permitindo que os desenvolvedores e usuários interajam com o sistema em um nível de complexidade adequado 
+ às suas necessidades, sem se preocupar com os detalhes minuciosos do funcionamento interno.
+
+- Capacidade de Processamento: A natureza do computador também é definida por sua capacidade de processamento. Um 
+ computador é capaz de realizar bilhões de operações por segundo, o que lhe permite executar tarefas extremamente 
+ complexas em um tempo muito curto. Essa capacidade de processamento é possível graças à miniaturização dos 
+ componentes eletrônicos e aos avanços na arquitetura dos processadores, que permitem que os computadores realizem 
+ múltiplas tarefas simultaneamente (multitarefa) e processem grandes volumes de dados de forma eficiente.
+
+- Precisão e Repetibilidade: A precisão é outra característica intrínseca à natureza do computador. Um computador 
+ segue as instruções de um programa com precisão absoluta, o que significa que ele pode executar tarefas 
+ repetitivas sem cometer erros, desde que o software esteja corretamente programado. Essa precisão é vital em 
+ muitas aplicações, desde cálculos científicos até operações financeiras, onde a margem de erro deve ser mínima.
+
+- Armazenamento e Recuperação de Informações: Além de processar dados, a natureza do computador inclui a 
+ capacidade de armazenar e recuperar informações de forma rápida e eficiente. Isso permite que grandes volumes de 
+ dados sejam mantidos em dispositivos de armazenamento e acessados conforme necessário. A capacidade de 
+ armazenamento é fundamental para a função do computador como uma ferramenta de gerenciamento de informações, seja 
+ para manter registros pessoais, administrar grandes bancos de dados corporativos, ou armazenar enormes 
+ quantidades de dados científicos para análise posterior.
+
+ Em essência, a natureza do computador é definida por sua universalidade, programabilidade, capacidade de 
+abstração, processamento veloz, precisão, e sua habilidade de armazenar e recuperar dados. Essa combinação de 
+características faz do computador uma das ferramentas mais poderosas e versáteis criadas pela humanidade, capaz de 
+transformar praticamente qualquer tarefa concebível em uma série de operações lógicas e aritméticas que ele pode 
+executar de maneira rápida e eficiente.
+
+

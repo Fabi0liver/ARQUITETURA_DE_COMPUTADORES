@@ -136,7 +136,11 @@ necessidades.
 
                                  "Hardware, Software e Peopleware"
 
- O hardware, software e peopleware são os três pilares que sustentam o funcionamento dos sistemas computacionais. O hardware fornece a infraestrutura física necessária para a operação do computador, o software instrui o hardware sobre como executar tarefas específicas, e o peopleware representa a interação humana com a tecnologia. Juntos, eles formam a base para a computação moderna, permitindo que a tecnologia seja usada de maneira eficaz e produtiva em diversas aplicações.
+ O hardware, software e peopleware são os três pilares que sustentam o funcionamento dos sistemas computacionais. 
+O hardware fornece a infraestrutura física necessária para a operação do computador, o software instrui o hardware 
+sobre como executar tarefas específicas, e o peopleware representa a interação humana com a tecnologia. Juntos, 
+eles formam a base para a computação moderna, permitindo que a tecnologia seja usada de maneira eficaz e produtiva 
+em diversas aplicações.
 
  Vamos explorar em mais detalhes cada um dos componentes: hardware, software e peopleware:
 

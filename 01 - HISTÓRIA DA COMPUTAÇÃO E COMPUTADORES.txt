@@ -223,9 +223,12 @@ maneira como processamos e utilizamos a informação. Desde os primeiros disposi
 sofisticados atuais, cada etapa trouxe inovações que não apenas aumentaram a capacidade e eficiência dos 
 computadores, mas também mudaram a forma como interagimos com o mundo ao nosso redor. 
 
- Essas transformações tecnológicas ocorreram em fases distintas, conhecidas como gerações da computação. Cada geração representa um salto significativo em termos de desempenho, miniaturização e capacidade de processamento, refletindo as mudanças no design de hardware, linguagens de programação e funcionalidades oferecidas. 
+ Essas transformações tecnológicas ocorreram em fases distintas, conhecidas como gerações da computação. Cada 
+geração representa um salto significativo em termos de desempenho, miniaturização e capacidade de processamento,
+refletindo as mudanças no design de hardware, linguagens de programação e funcionalidades oferecidas. 
 
-A seguir, exploraremos cada uma dessas gerações em detalhes, para entender melhor como a computação chegou ao ponto em que está hoje.
+A seguir, exploraremos cada uma dessas gerações em detalhes, para entender melhor como a computação chegou ao 
+ponto em que está hoje.
 
 - Primeira Geração (1940-1956): Válvulas Eletrônicas
 

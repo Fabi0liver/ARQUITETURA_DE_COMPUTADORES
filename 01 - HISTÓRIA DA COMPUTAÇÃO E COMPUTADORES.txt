@@ -207,6 +207,7 @@ desenvolvimento da computação moderna e o impacto que teve na sociedade.
  quântica, estão moldando um futuro onde a computação será ainda mais integrada à vida humana, tornando-se uma 
  parte invisível e necessária do nosso cotidiano.
 
+
  A história da computação é marcada por uma evolução constante, desde as primeiras ferramentas mecânicas até as 
 tecnologias de ponta como a inteligência artificial e a computação quântica. Cada avanço não apenas ampliou as 
 capacidades das máquinas, mas também transformou a sociedade, criando novas indústrias, redefinindo a maneira como 

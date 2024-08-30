@@ -1,0 +1,64 @@
+                                     HISTÓRIA DA COMPUTAÇÃO	
+
+
+ A história da computação é uma narrativa de constante inovação e descoberta que traça a evolução das ferramentas 
+e técnicas desenvolvidas para lidar com o processamento e armazenamento de informações. Começando com as primeiras 
+invenções de dispositivos projetados para facilitar cálculos aritméticos simples, a trajetória da computação 
+revela um panorama de avanços tecnológicos que moldaram e continuam a moldar a sociedade moderna.	
+
+ Desde os primeiros ábacos, que ajudaram os antigos matemáticos a realizar cálculos complexos, até as calculadoras 
+mecânicas feitas no século XVII, em busca de maior eficiência e precisão no processamento de dados foi uma 
+constante. A era seguinte, marcada pelo advento da Revolução Industrial, trouxe inovações como a Máquina Analítica 
+de Charles Babbage e o Tear de Jacquard, que introduziram conceitos fundamentais de programação e automação.
+
+ Com o início do século XX, a eletrônica entrou em cena, dando origem aos primeiros computadores eletrônicos 
+digitais, como o ENIAC, e abrindo caminho para a miniaturização com o desenvolvimento dos transistores e circuitos 
+integrados. A década de 1970 trouxe os microprocessadores, que possibilitaram o surgimento dos computadores 
+pessoais e a popularização da tecnologia.
+
+ A virada do milênio foi marcada pela ascensão da internet, mudando a forma como nos conectamos e interagimos com 
+o mundo digital. A revolução da conversão móvel e a regulamentação de dispositivos inteligentes ampliaram ainda 
+mais as fronteiras da tecnologia. Hoje, estamos à beira de uma nova era com a computação quântica, que promete 
+transformar a maneira como lidamos com problemas complexos e processamos dados.
+
+ A seguir, exploraremos cada uma dessas etapas em detalhes, revelando como cada inovação trazida para o 
+desenvolvimento da computação moderna e o impacto que teve na sociedade.
+
+
+- Pré-História da Computação: As Primeiras Ferramentas
+
+  A computação, em seu sentido mais amplo, tem raízes que remontam a milhares de anos, muito antes da invenção dos 
+ computadores eletrônicos. As primeiras tentativas de realização de cálculos sistemáticos surgiram com ferramentas 
+ como o ábaco, criado por volta de 2400 aC O ábaco foi amplamente utilizado por civilizações como os babilônios, 
+ egípcios, chineses e gregos. Ele consistia em uma moldura com hastes ou cordas onde as contas eram movidas para 
+ representar números. Essa ferramenta permitia realizar operações aritméticas básicas como adição, subtração, 
+ multiplicação e divisão, muito mais rapidamente do que seria possível apenas com a mente ou com lápis e papel. O 
+ uso do ábaco persistiu por séculos e, em algumas partes do mundo, ainda é utilizado como uma ferramenta de   
+ ensino.
+
+  Outro marco importante nessa época foi o trabalho de Al-Khwarizmi, uma matemática persa do século IX, que 
+ dinâmica o conceito de algoritmos e o sistema numérico decimal. Os algoritmos são passos sistêmicos para resolver 
+ problemas matemáticos e, hoje, formam a base de todos os programas de computador. Al-Khwarizmi também popularizou 
+ o uso do zero na matemática, um avanço fundamental que permitiu cálculos mais complexos e eficientes. Embora a 
+ computação, como a entendemos hoje, estivesse ainda a milênios de distância, esses primeiros avanços foram 
+ essenciais para o desenvolvimento posterior da matemática e das tecnologias computacionais.
+
+
+- A Era Mecânica: As Primeiras Máquinas de Cálculo 
+
+  No século XVII, com o Renascimento Europeu e os avanços em matemática e física, surgiu a necessidade de  
+ automatizar cálculos, especialmente em áreas como astronomia, navegação e finanças. Blaise Pascal, um prodígio 
+ matemático francês, inventou em 1642 a Pascalina, considerada a primeira calculadora mecânica. Essa máquina 
+ utilizou uma série de rodas dentadas e engrenagens para realizar adições e subtrações, aliviando a carga de 
+ trabalho manual em cálculos repetitivos e complexos. Embora limitada às operações básicas, a Pascalina 
+ representou um avanço significativo na automação do design, sendo usada principalmente em escritórios de 
+ contabilidade e em bancos.
+
+  Pouco depois, Gottfried Wilhelm Leibniz, um matemático e filósofo alemão, avançou ainda mais nessa área ao 
+ desenvolver a Calculadora de Leibniz, capaz de realizar multiplicações, divisões e raízes quadradas. Ele também 
+ modificou o conceito de simulação binária, o que mais tarde se tornou fundamental na operação dos computadores 
+ modernos, que operam em código binário. A Calculadora de Leibniz usava um tambor cilíndrico que, ao ser girado, 
+ movia engrenagens para realizar cálculos. Embora fosse uma máquina complexa e pouco prática para uso generalizado 
+ na época, ela demonstrou o potencial de automação em cálculos avançados, prenunciando a era das máquinas de 
+ computação.
+ 	

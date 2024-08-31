@@ -1,4 +1,4 @@
-# ARQUITETURA_DE_COMPUTADORES
+# ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES
 
 Arquitetura de computação refere-se ao design e à organização interna 
 de um sistema de computador. Em termos simples, é a estrutura e o 

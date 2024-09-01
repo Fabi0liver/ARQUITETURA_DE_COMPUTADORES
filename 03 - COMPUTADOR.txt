@@ -191,6 +191,12 @@ em diversas aplicações.
                                                          dados na ROM não são apagados quando o computador é 
                                                          desligado.
 
+                     - Memória Cache: A memória cache é uma memória ultrarrápida, menor em capacidade que a RAM, e 
+                                     é usada para armazenar dados e instruções que a CPU acessa com mais 
+                                     frequência. A cache serve como uma intermediária entre a CPU e a RAM, 
+                                     melhorando o desempenho do sistema ao reduzir o tempo que a CPU leva para 
+                                     acessar informações.
+
 
      Dispositivos de Armazenamento: Os dispositivos de armazenamento são responsáveis por manter dados e programas   
                      a longo prazo. Existem diferentes tipos de dispositivos de armazenamento, cada um com 

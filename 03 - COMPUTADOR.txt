@@ -176,19 +176,20 @@ em diversas aplicações.
                      operacional e os programas funcionem. Existem diferentes tipos de memória, cada um com uma 
                      função específica:
 
-                     - Memória de Acesso Aleatório (RAM): A RAM é a memória volátil que armazena dados temporários 
-                                                         enquanto o computador está ligado. Ela fornece um espaço 
-                                                         rápido de leitura e gravação que o processador usa para 
-                                                         executar programas e processar informações. A capacidade 
-                                                         de RAM afeta diretamente o desempenho do computador, 
-                                                         especialmente ao executar múltiplos programas 
-                                                         simultaneamente.
+                     - Memória de Acesso Aleatório (RAM): A RAM (Random Access Memory) é a memória volátil que 
+                                                         armazena dados temporários enquanto o computador está 
+                                                         ligado. Ela fornece um espaço rápido de leitura e 
+                                                         gravação que o processador usa para executar programas e 
+                                                         processar informações. A capacidade de RAM afeta 
+                                                         diretamente o desempenho do computador, especialmente ao 
+                                                         executar múltiplos programas simultaneamente.
 
-                     - Memória de Somente Leitura (ROM): A ROM é uma memória não volátil que contém instruções 
-                                                        permanentes essenciais para o funcionamento básico do 
-                                                        computador, como o firmware que inicia o sistema (BIOS ou 
-                                                        UEFI). Diferente da RAM, os dados na ROM não são apagados 
-                                                        quando o computador é desligado.
+                     - Memória de Somente Leitura (ROM): A ROM (Read-Only Memory)é uma memória não volátil que 
+                                                         contém instruções permanentes essenciais para o 
+                                                         funcionamento básico do computador, como o firmware que 
+                                                         inicia o sistema (BIOS ou UEFI). Diferente da RAM, os 
+                                                         dados na ROM não são apagados quando o computador é 
+                                                         desligado.
 
 
      Dispositivos de Armazenamento: Os dispositivos de armazenamento são responsáveis por manter dados e programas   

@@ -8,4 +8,7 @@ organizados e interagem entre si. Em contraste, organização de computadores se
 prática dessas ideias, lidando com a forma como esses componentes são fisicamente conectados e operam no
 hardware real.
 
-Essencialmente, a arquitetura define o que o sistema deve fazer e quais capacidades ele possui, enquanto a organização descreve como isso é alcançado no nível de hardware. Esses conceitos são fundamentais para entender como os computadores são projetados para realizar tarefas de maneira eficiente e eficaz, e como diferentes designs podem impactar o desempenho e as funcionalidades de um sistema computacional.
+Essencialmente, a arquitetura define o que o sistema deve fazer e quais capacidades ele possui, enquanto 
+a organização descreve como isso é alcançado no nível de hardware. Esses conceitos são fundamentais para
+entender como os computadores são projetados para realizar tarefas de maneira eficiente e eficaz, e como
+diferentes designs podem impactar o desempenho e as funcionalidades de um sistema computacional.

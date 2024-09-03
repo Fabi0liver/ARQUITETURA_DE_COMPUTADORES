@@ -1,14 +1,22 @@
 # ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES
 
-  Arquitetura e Organização de computadores são conceitos centrais no estudo de sistemas computacionais, 
-e juntos descrevem como um computador é projetado e funciona. De forma geral, arquitetura de computadores 
-refere-se ao design conceitual e à estrutura lógica do sistema. Ela envolve decisões de alto nível sobre
-como os componentes principais, como o processador, a memória e os dispositivos de entrada/saída, são 
-organizados e interagem entre si. Em contraste, organização de computadores se concentra na implementação 
-prática dessas ideias, lidando com a forma como esses componentes são fisicamente conectados e operam no
-hardware real.
+  A arquitetura e organização de computadores referem-se aos aspectos fundamentais
+  do design e do funcionamento de um sistema de computação. Esses dois conceitos estão 
+  intimamente ligados e, juntos, definem tanto o que um computador pode fazer quanto como
+  ele realiza essas tarefas.
 
-Essencialmente, a arquitetura define o que o sistema deve fazer e quais capacidades ele possui, enquanto 
-a organização descreve como isso é alcançado no nível de hardware. Esses conceitos são fundamentais para
-entender como os computadores são projetados para realizar tarefas de maneira eficiente e eficaz, e como
-diferentes designs podem impactar o desempenho e as funcionalidades de um sistema computacional.
+ A arquitetura de computadores estabelece a base conceitual, descrevendo as capacidades do
+ sistema, como o conjunto de instruções que o processador pode executar, a maneira como a 
+ memória é acessada, e como os dados são processados. Em outras palavras, a arquitetura define
+ as diretrizes e as especificações que determinam o comportamento do computador.
+
+ Por outro lado, a organização de computadores trata de como essas diretrizes e especificações 
+ são implementadas na prática. Ela foca na disposição física dos componentes, a interconexão 
+ entre eles e a eficiência na execução das operações definidas pela arquitetura. Em suma, 
+ enquanto a arquitetura define o que o computador deve ser capaz de fazer, a organização cuida 
+ de como essas capacidades são concretizadas no hardware.
+
+ A relação entre arquitetura e organização é fundamental para o desempenho de um computador. Juntas,
+ elas garantem que o sistema funcione de forma eficiente, equilibrando o potencial teórico estabelecido
+ pela arquitetura com a realidade prática da organização. Esse equilíbrio é essencial para criar 
+ computadores que atendam às necessidades dos usuários e maximizem o uso dos recursos disponíveis.

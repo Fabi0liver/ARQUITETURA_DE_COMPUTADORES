@@ -1,6 +1,6 @@
-# ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES
+# ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES
 
-Organização e arquitetura de computadores são conceitos centrais no estudo de sistemas computacionais, 
+  Arquitetura e Organização de computadores são conceitos centrais no estudo de sistemas computacionais, 
 e juntos descrevem como um computador é projetado e funciona. De forma geral, arquitetura de computadores 
 refere-se ao design conceitual e à estrutura lógica do sistema. Ela envolve decisões de alto nível sobre
 como os componentes principais, como o processador, a memória e os dispositivos de entrada/saída, são 

@@ -263,7 +263,8 @@ contribui para o desempenho geral e a capacidade do computador.
 
  Imagine que você está montando uma casa. Para isso, você precisa de tijolos, cimento, madeira, janelas, portas e 
 todas as ferramentas para construir. Sem esses materiais, a casa não se ergue. Da mesma forma, um computador 
-precisa de peças físicas para funcionar, e essas peças são o que chamamos de hardware. Pense no hardware como os “tijolos e cimento” do seu computador. Sem eles, você não teria onde colocar o sistema 
+precisa de peças físicas para funcionar, e essas peças são o que chamamos de hardware. Pense no hardware como os
+“tijolos e cimento” do seu computador. Sem eles, você não teria onde colocar o sistema 
 operacional (o “projeto da casa”) ou os aplicativos (os “móveis e decoração”).
  
 

@@ -63,7 +63,8 @@ física necessária para que o software possa realizar suas funções.
 
                                     "Componentes Principais"
 
- O hardware do computador é geralmente descrito em três componentes principais, cada um com uma função essencial para o funcionamento do sistema:
+ O hardware do computador é geralmente descrito em três componentes principais, cada um com uma função essencial 
+para o funcionamento do sistema:
 
 
  - Unidade Central de Processamento (CPU): A CPU é o cérebro do computador. Ela é responsável por executar as   
@@ -106,7 +107,8 @@ Além desses três componentes principais, frequentemente adiciona-se um quarto 
   conectar os diferentes ambientes (componentes) da casa (computador).
  
 
- Com o avanço da computação e das tecnologia que a ela se aplica, outros componentes têm se tornado cada vez mais importantes e frequentemente são considerados essenciais:
+ Com o avanço da computação e das tecnologia que a ela se aplica, outros componentes têm se tornado cada vez mais 
+importantes e frequentemente são considerados essenciais:
 
 
  - Dispositivo de Armazenamento: Os dispositivos de armazenamento guardam dados e programas permanentemente. Eles 
@@ -147,7 +149,10 @@ interação com o usuário, e a fonte de alimentação fornece a energia necess�
  
                             "A Relação entre o Hardware e o Software"
 
- Já sabemos que o Hardware refere-se aos componentes físicos do computador, como a CPU, a memória RAM, o armazenamento, e os dispositivos periféricos. Esses são os elementos tangíveis que formam a estrutura do sistema. Em contraste, o software é composto por programas e sistemas operacionais que fornecem instruções ao hardware sobre como executar tarefas específicas.
+ Já sabemos que o Hardware refere-se aos componentes físicos do computador, como a CPU, a memória RAM, o 
+armazenamento, e os dispositivos periféricos. Esses são os elementos tangíveis que formam a estrutura do sistema.
+Em contraste, o software é composto por programas e sistemas operacionais que fornecem instruções ao hardware sobre
+como executar tarefas específicas.
 
  O hardware e o software trabalham juntos de forma sinérgica para permitir que um computador realize suas funções. 
 O software fornece as instruções necessárias para que o hardware execute operações, como processar dados, 

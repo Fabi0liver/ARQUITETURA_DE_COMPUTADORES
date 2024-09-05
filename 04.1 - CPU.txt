@@ -43,3 +43,94 @@ desempenho de qualquer computador.
 
 
                                          "Ciclo de Instrução"
+
+ A CPU, ou Unidade Central de Processamento, é o cérebro do computador. Ela é responsável por realizar todas as 
+operações e processar as instruções necessárias para que o sistema funcione. Para isso, a CPU segue um processo 
+cíclico que já foi brevemente falado anteriormente chamado "ciclo de instrução", que é repetido milhões ou até 
+bilhões de vezes por segundo. Esse ciclo é dividido em quatro etapas fundamentais: Busca (Fetch), Decodificação 
+(Decode), Execução (Execute) e Gravação (Write Back). 
+
+ O ciclo de instrução é o coração do funcionamento da CPU. Ele descreve como a CPU processa cada comando que 
+recebe de um programa, transformando instruções em ações concretas. Esse ciclo é fundamental para a operação de 
+qualquer computador, permitindo que ele execute tarefas e processe dados. 
+
+ Vamos explorar cada uma das quatro etapas principais: 
+
+ - Busca (Fetch): A etapa de Busca é onde o ciclo começa. O que acontece aqui é que a CPU precisa pegar a próxima 
+  instrução do programa que está sendo executado. Essas instruções estão localizadas na memória RAM, e o contador  
+  de programa (Program Counter) é o responsável por apontar o endereço exato na memória onde a próxima instrução 
+  está armazenada. A CPU usa esse endereço para localizar a instrução e trazê-la para dentro de um registro, 
+  geralmente o Registro de Instrução (Instruction Register).
+
+    Contador de Programa: O contador de programa (Program Counter) contém o endereço da próxima instrução a ser 
+                         executada. Ele é como um marcador que indica qual parte do programa a CPU deve acessar a 
+                         seguir.
+
+    Leitura da Memória: A CPU usa esse endereço para acessar a memória RAM, onde a instrução está armazenada.
+
+    Armazenamento Temporário: A instrução é então carregada em um registro da CPU chamado Registro de Instrução 
+                             (Instruction Register), que serve como uma área temporária para guardar a instrução 
+                             até que possa ser decodificada.
+
+   Imagine que você está em uma biblioteca procurando um livro específico. O contador de programa é como o índice 
+  que te diz qual prateleira buscar. Você encontra o livro (instrução) e o coloca em uma mesa (registro de 
+  instrução) para começar a leitura.
+
+
+ - Decodificação (Decode): Uma vez que a instrução foi buscada e armazenada no registro de instrução, a CPU 
+  precisa decodificar essa instrução. Nessa etapa, a instrução, que foi lida da memória como uma sequência de bits 
+  (0s e 1s), é interpretada pela Unidade de Controle da CPU. A decodificação transforma esses bits em uma 
+  linguagem que a CPU entende, identificando qual operação precisa ser realizada e quais dados serão necessários 
+  para isso.
+
+    Interpretação da Instrução: A instrução é composta por um código de operação (opcode) e, às vezes, um ou mais 
+                               operandos. O opcode indica qual ação deve ser realizada, enquanto os operandos 
+                               fornecem dados ou endereços relacionados à ação.
+
+    Preparação para Execução: A Unidade de Controle da CPU interpreta esse opcode e prepara a ULA (Unidade Lógica 
+                             e Aritmética) ou outros componentes para realizar a ação especificada. Isso pode 
+                             envolver a configuração de registradores e a definição de quais dados serão usados.
+
+   Pense na decodificação como traduzir um texto em uma língua estrangeira. A instrução codificada é como um texto 
+  em uma língua desconhecida que precisa ser traduzido para um idioma que você compreende. A CPU "traduz" a 
+  instrução para saber exatamente o que fazer.
+
+ 
+ - Execução (Execute): Após a decodificação, vem a fase de Execução, que é onde a mágica acontece. A CPU realiza a 
+  operação que foi decodificada. Essa operação pode ser matemática, como uma soma ou subtração, uma movimentação 
+  de dados entre registros, ou algo mais complexo como um desvio condicional (tomar uma decisão baseada em um 
+  valor).
+ 
+    Operação: A ULA pode realizar operações aritméticas (como adição ou subtração) ou lógicas (como comparações). 
+             Se a instrução envolve manipulação de dados, a CPU pode ler dados da memória ou de outros 
+             registradores.
+
+    Processamento: A CPU realiza a ação necessária, seja calculando um valor, movendo dados ou alterando estados 
+                  internos, com base na operação decodificada.
+
+   Imagine que você está seguindo uma receita para preparar um prato. A execução é o momento em que você mistura 
+  ingredientes, cozinha e realmente faz o prato. A receita fornece as instruções, e a execução é a prática de 
+  seguir essas instruções para criar o resultado final.
+
+
+ - Gravação (Write Back): A última etapa do ciclo de instrução é a Gravação, também chamada de Write Back. Após a 
+  execução da operação, o resultado precisa ser armazenado em algum lugar para ser usado futuramente. Isso pode 
+  ser feito gravando o resultado em um registro da CPU ou na memória RAM, dependendo da instrução.
+
+    Armazenamento do Resultado: O resultado da execução pode ser gravado em um registrador da CPU ou na memória 
+                               RAM. Isso garante que o resultado esteja disponível para futuras instruções ou 
+                               operações.
+
+    Atualização de Registradores: Se a instrução modificou valores em registradores, esses valores são atualizados 
+                                 para refletir o resultado da execução.
+
+   Após preparar o prato, você anota a receita finalizada em um caderno de receitas. A gravação é como registrar o 
+  resultado da sua cozinha, garantindo que o prato esteja pronto para ser servido ou usado em futuras receitas.
+
+
+ Esses quatro processos (Busca, Decodificação, Execução e Gravação) formam o ciclo de instrução, que se repete 
+continuamente na CPU para permitir o processamento de todas as operações de um computador. Esse ciclo é crucial, 
+pois permite que o computador funcione de maneira rápida e eficiente, completando cada etapa bilhões de vezes por 
+segundo em processadores modernos.
+
+

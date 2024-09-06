@@ -353,7 +353,10 @@ executar.
 
                                                "Clock"
 
- O clock de um computador, também conhecido como oscilador de clock, é um componente vital que fornece um sinal de temporização essencial para a operação do sistema. Ele é responsável por gerar pulsos elétricos regulares que sincronizam as atividades dos diversos componentes do computador, como a CPU, a memória e os dispositivos periféricos. Sem esse sinal de temporização, o computador não conseguiria coordenar suas operações de forma eficaz.
+ O clock de um computador, também conhecido como oscilador de clock, é um componente vital que fornece um sinal de 
+temporização essencial para a operação do sistema. Ele é responsável por gerar pulsos elétricos regulares que 
+sincronizam as atividades dos diversos componentes do computador, como a CPU, a memória e os dispositivos 
+periféricos. Sem esse sinal de temporização, o computador não conseguiria coordenar suas operações de forma eficaz.
 
  Este sinal de temporização é produzido por um circuito oscilador que pode usar um cristal oscilador ou um 
 circuito eletrônico para criar pulsos em uma frequência específica. O cristal oscilador, que é um pequeno cristal 
@@ -402,7 +405,9 @@ mais alta significa que o clock produz mais pulsos em um período de tempo, o qu
 mais ciclos de instrução por segundo. Por exemplo, um clock com uma frequência de 3 GHz (gigahertz) gera 3 bilhões 
 de pulsos por segundo, proporcionando uma maior capacidade de processamento.
 
- A frequência do clock tem um impacto direto no desempenho do sistema, influenciando a velocidade com que as operações são realizadas. Um clock com uma alta frequência permite que a CPU e outros componentes realizem mais operações em um intervalo de tempo mais curto, resultando em uma execução mais rápida das tarefas e em um 
+ A frequência do clock tem um impacto direto no desempenho do sistema, influenciando a velocidade com que as 
+operações são realizadas. Um clock com uma alta frequência permite que a CPU e outros componentes realizem mais
+operações em um intervalo de tempo mais curto, resultando em uma execução mais rápida das tarefas e em um 
 desempenho geral mais eficiente do computador.
 
  Vamos explorar como a frequência da CPU afeta o funcionamento do computador.
@@ -425,7 +430,8 @@ desempenho geral mais eficiente do computador.
                                    carga de trabalho, ajudando a equilibrar o desempenho e a eficiência 
                                    energética.
 
- Imagine que a frequência da CPU é como a velocidade de um carro. Se o carro pode correr a 100 km/h, ele pode  percorrer mais distância em menos tempo do que um carro que só consegue atingir 50 km/h. Da mesma forma, uma CPU 
+ Imagine que a frequência da CPU é como a velocidade de um carro. Se o carro pode correr a 100 km/h, ele pode  
+percorrer mais distância em menos tempo do que um carro que só consegue atingir 50 km/h. Da mesma forma, uma CPU 
 com uma frequência mais alta pode processar mais dados em um período de tempo mais curto.
 
  A frequência da CPU é uma métrica importante que afeta a velocidade com que um processador pode executar 

@@ -568,7 +568,8 @@ ser armazenadas também cresce.
 precisa acessar repetidamente ou que são mais prováveis de serem usados em um futuro próximo. Dessa forma, o 
 processador pode continuar funcionando sem interrupções, reduzindo o tempo ocioso.
 
- Com isso, o cache se torna uma ferramenta essencial para melhorar a velocidade e a eficiência do processador, garantindo que ele opere de forma rápida, mesmo quando o acesso à memória principal é necessário.
+ Com isso, o cache se torna uma ferramenta essencial para melhorar a velocidade e a eficiência do processador, 
+garantindo que ele opere de forma rápida, mesmo quando o acesso à memória principal é necessário.
 
  Vamos explorar as partes mais importantes do cache da CPU de maneira detalhada:
 
@@ -618,7 +619,8 @@ processador pode continuar funcionando sem interrupções, reduzindo o tempo oci
   relevantes permaneçam disponíveis.
 
 
- - Associatividade do Cache: Outro conceito importante é a associatividade, que diz respeito a como os dados são organizados dentro do cache. 
+ - Associatividade do Cache: Outro conceito importante é a associatividade, que diz respeito a como os dados são 
+organizados dentro do cache. 
 
    Existem diferentes tipos de associatividade:
     

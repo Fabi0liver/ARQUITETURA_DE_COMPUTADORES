@@ -109,14 +109,28 @@ funcionamento do sistema, permitindo uma experiência de uso eficiente e confiá
 
                                       "A Hierarquia das Memórias"
 
- A hierarquia das memórias em um sistema computacional é uma organização em diferentes níveis de armazenamento, 
-projetada para equilibrar velocidade, custo e capacidade de armazenamento. O objetivo dessa hierarquia é garantir 
-que os dados sejam acessados da maneira mais eficiente possível, minimizando o tempo que o processador gasta 
-esperando pelas informações necessárias. Cada nível dessa hierarquia tem características distintas em termos de 
-velocidade, capacidade, custo e função. 
+ A hierarquia de memórias é um conceito fundamental em arquitetura de computadores, e sua principal função é 
+garantir que o processador tenha acesso rápido às informações necessárias para executar tarefas, sem desperdiçar 
+tempo valioso esperando por dados. Em um sistema computacional moderno, o processador é incrivelmente rápido, mas 
+a velocidade das memórias não acompanha esse ritmo da mesma maneira. Portanto, surgiu a necessidade de criar uma 
+hierarquia de armazenamento, que organiza diferentes tipos de memória com base em sua velocidade, capacidade e 
+custo. 
 
- A seguir, explico essa hierarquia de cima para baixo, do nível mais rápido ao mais lento, e de menor para maior 
-capacidade.
+ A ideia por trás dessa hierarquia é simples: quanto mais próxima a memória estiver do processador, mais rápida e 
+mais cara ela será, mas com menor capacidade de armazenamento. Por outro lado, as memórias mais distantes são mais 
+lentas, mais baratas, mas têm uma capacidade muito maior. O equilíbrio entre essas memórias é o que permite que o 
+sistema funcione de forma eficiente, com dados importantes e frequentemente acessados armazenados em memórias mais 
+rápidas, enquanto grandes volumes de dados são guardados em memórias mais lentas e permanentes. Isso também evita 
+o uso excessivo de memórias caras e rápidas em grandes volumes de armazenamento, o que seria inviável em termos de 
+custo.
+
+ Essa hierarquia é composta por vários níveis que, juntos, formam um sistema que distribui os dados de forma 
+inteligente, dependendo de como e quando eles serão acessados. Ela começa com os componentes mais rápidos e 
+termina com os mais lentos, garantindo que as informações mais essenciais estejam disponíveis rapidamente e que as 
+informações menos usadas sejam armazenadas de maneira eficiente. 
+
+A seguir, vamos explorar cada nível dessa hierarquia, desde os registradores mais rápidos até os dispositivos de 
+armazenamento mais lentos.
 
 - No topo da hierarquia, temos as "registradores", que são pequenas áreas de armazenamento localizadas diretamente 
  dentro do processador. Eles são extremamente rápidos e permitem o acesso imediato aos dados que o processador 

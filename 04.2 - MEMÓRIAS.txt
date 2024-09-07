@@ -32,7 +32,8 @@ sistema como um todo funcione de forma otimizada.
  Com o avanço da tecnologia, as memórias se tornaram cada vez mais rápidas, compactas e capazes de armazenar 
 quantidades maiores de dados. Isso reflete diretamente na melhoria do desempenho dos computadores modernos, 
 permitindo a execução de tarefas cada vez mais complexas, enquanto o sistema consegue gerenciar essas informações 
-de maneira eficaz e organizada. O papel das memórias continua a evoluir, mas sua função essencial a de armazenar e fornecer dados de forma eficiente  permanece como um pilar central para o funcionamento de qualquer sistema 
+de maneira eficaz e organizada. O papel das memórias continua a evoluir, mas sua função essencial a de armazenar e 
+fornecer dados de forma eficiente  permanece como um pilar central para o funcionamento de qualquer sistema 
 computacional.
 
 

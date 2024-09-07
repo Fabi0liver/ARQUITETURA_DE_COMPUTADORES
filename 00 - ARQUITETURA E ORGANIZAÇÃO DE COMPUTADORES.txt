@@ -2,7 +2,8 @@
 
 
  A arquitetura e organização de computadores são dois pilares essenciais no design e na operação de sistemas de 
-computação, e apesar de serem conceitos distintos, eles se complementam profundamente, formando a base sobre a qual os computadores são construídos e operados.
+computação, e apesar de serem conceitos distintos, eles se complementam profundamente, formando a base sobre a
+qual os computadores são construídos e operados.
 
  A arquitetura de computadores refere-se ao projeto conceitual do sistema, envolvendo as decisões de alto nível 
 sobre como o computador funcionará. Isso inclui a definição do conjunto de instruções que o processador pode 
@@ -152,7 +153,8 @@ estruturada pode melhorar significativamente o desempenho e a eficiência de um 
 criar um sistema onde todos os componentes trabalhem juntos de forma coordenada e eficaz, maximizando o uso dos 
 recursos disponíveis.
 
- A organização de computadores se concentra nos aspectos físicos e operacionais de como um sistema de computação é montado e funciona. Especificamente, ela aborda:
+ A organização de computadores se concentra nos aspectos físicos e operacionais de como um sistema de computação 
+é montado e funciona. Especificamente, ela aborda:
 
   - Estrutura do Hardware: Como os componentes físicos, como o processador, memória, dispositivos de entrada/saída 
    e armazenamento, são dispostos e conectados dentro do sistema. Isso inclui a configuração de barramentos, a 
@@ -184,9 +186,15 @@ recursos disponíveis.
 especificações abstratas da arquitetura em operações práticas e concretas que realizam as tarefas computacionais 
 desejadas.
 
- A organização de computadores é crucial porque impacta diretamente o desempenho do sistema. Uma boa organização pode otimizar a execução das instruções e a manipulação dos dados, resultando em computadores mais rápidos e eficientes. Por exemplo, a forma como a cache é organizada pode determinar o quão rapidamente a CPU pode acessar os dados necessários, o que por sua vez afeta o desempenho geral do sistema.
+ A organização de computadores é crucial porque impacta diretamente o desempenho do sistema. Uma boa organização 
+pode otimizar a execução das instruções e a manipulação dos dados, resultando em computadores mais rápidos e 
+eficientes. Por exemplo, a forma como a cache é organizada pode determinar o quão rapidamente a CPU pode acessar 
+os dados necessários, o que por sua vez afeta o desempenho geral do sistema.
 
- Em resumo, a organização de computadores se preocupa com a implementação prática dos componentes de um sistema computacional, assegurando que o hardware execute as operações de forma eficiente, confiável e rápida. Ela complementa a arquitetura de computadores, que define o que o sistema deve fazer, enquanto a organização define como essas funcionalidades são fisicamente realizadas.
+ Em resumo, a organização de computadores se preocupa com a implementação prática dos componentes de um sistema 
+computacional, assegurando que o hardware execute as operações de forma eficiente, confiável e rápida. Ela
+complementa a arquitetura de computadores, que define o que o sistema deve fazer, enquanto a organização define 
+como essas funcionalidades são fisicamente realizadas.
 
 
 

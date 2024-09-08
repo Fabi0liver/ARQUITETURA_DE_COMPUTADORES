@@ -311,3 +311,31 @@ memórias mais rápidas e temporárias até aquelas que fornecem armazenamento p
  permanente.
 
 
+- Memória Secundária: Oferece armazenamento de longo prazo para dados e programas, sendo não volátil. Exemplos 
+ incluem discos rígidos (HDD), unidades de estado sólido (SSD) e até CDs e DVDs. Embora muito mais lenta que a 
+ RAM, a memória secundária tem uma capacidade muito maior e retém dados mesmo quando o sistema está desligado.
+
+    Função: Armazenar dados de longo prazo, como arquivos pessoais, aplicativos e o próprio sistema operacional.
+ 
+    Capacidade: Muito grande, variando de gigabytes a terabytes.
+
+    Velocidade: Muito mais lenta que a RAM, embora os SSDs sejam significativamente mais rápidos que os HDDs 
+               tradicionais.
+
+  A memória secundária é essencial para armazenar grandes volumes de dados e garantir que eles estejam disponíveis 
+ mesmo após o sistema ser desligado.
+
+- Memória Externa: Refere-se a dispositivos de armazenamento que podem ser conectados ao sistema e removidos, como 
+ pen drives, discos rígidos externos e cartões de memória. Esses dispositivos permitem a transferência de dados 
+ entre sistemas e oferecem opções de armazenamento portáteis e adicionais.
+
+    Função: Fornecer armazenamento removível, permitindo que os usuários transportem dados e façam backups.
+
+    Capacidade: Variável, de alguns gigabytes até vários terabytes.
+
+    Velocidade: Variável, dependendo do dispositivo e da interface de conexão (como USB 2.0, USB 3.0, etc.).
+
+  A memória externa oferece flexibilidade e conveniência ao permitir que os dados sejam facilmente movidos entre   
+ dispositivos.
+
+

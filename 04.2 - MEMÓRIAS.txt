@@ -339,3 +339,40 @@ memórias mais rápidas e temporárias até aquelas que fornecem armazenamento p
  dispositivos.
 
 
+- Memória Virtual: É uma técnica usada para simular RAM adicional ao usar parte do disco rígido como espaço de 
+ memória. Quando a RAM física está cheia, o sistema operacional move alguns dados para o disco rígido, permitindo 
+ que o sistema continue a funcionar sem ficar sem memória.
+
+    Função: Aumentar a quantidade de memória disponível no sistema, usando o disco rígido para armazenar 
+           temporariamente dados que não cabem na RAM.
+
+    Capacidade: Depende da configuração do sistema e do espaço disponível no disco.
+
+    Velocidade: Muito mais lenta que a RAM física, já que depende do disco rígido.
+
+  A memória virtual é uma solução temporária e eficiente para ampliar a capacidade de memória do sistema, mas seu  
+ uso excessivo pode diminuir o desempenho, devido à lentidão do acesso ao disco rígido.
+
+
+- VRAM (Video Random Access Memory): É um tipo especializado de memória usada pelas placas de vídeo (GPUs) para 
+ armazenar dados gráficos, como texturas, buffers de quadro e informações de exibição. Ela é otimizada para lidar 
+ com grandes volumes de dados gráficos em alta velocidade, o que é essencial para jogos, renderização de vídeos e 
+ outras aplicações visuais intensivas.
+
+    Função: Armazenar dados gráficos que são processados pela GPU e exibidos na tela, como texturas de jogos, 
+           vídeos e renderizações gráficas.
+
+    Capacidade: Varia de alguns gigabytes até 16 GB ou mais, dependendo da placa de vídeo.
+
+    Velocidade: Muito rápida, otimizada para suportar as altas demandas de processamento gráfico.
+
+  A VRAM é crucial para o desempenho gráfico do sistema, permitindo que as GPUs processem e exibam gráficos em  
+ alta resolução e em tempo real, especialmente em jogos e aplicações de design.
+
+ Cada um desses tipos de memória desempenha um papel fundamental em diferentes aspectos do funcionamento do 
+computador. Os registradores e a memória cache aceleram o processamento, enquanto a RAM fornece o espaço de 
+trabalho temporário para dados e programas em uso. A ROM mantém dados essenciais e permanentes para o sistema, 
+enquanto a memória secundária e externa oferecem armazenamento de longo prazo. A memória virtual atua como uma 
+extensão temporária da RAM, e a VRAM é especializada no processamento gráfico. Juntas, essas memórias garantem que 
+o sistema opere de maneira eficiente e balanceada, cada uma contribuindo de forma única para o desempenho e 
+capacidade de armazenamento do computador.

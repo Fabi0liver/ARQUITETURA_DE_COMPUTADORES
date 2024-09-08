@@ -258,6 +258,24 @@ memórias mais rápidas e temporárias até aquelas que fornecem armazenamento p
   Os registradores são críticos para a execução de cálculos rápidos e estão no topo da hierarquia de memórias em 
  termos de velocidade.
 
+- Memória Cache: É uma memória intermediária entre os registradores e a memória principal (RAM). Ela serve para 
+ armazenar dados e instruções frequentemente acessados pela CPU, reduzindo o tempo de acesso à RAM e acelerando o 
+ processamento. A cache é organizada em diferentes níveis, conhecidos como L1, L2 e L3.
+
+    Função: Armazenar dados frequentemente usados pela CPU para acesso rápido, melhorando o desempenho geral do 
+           sistema.
+
+    Níveis de Cache:
+                    L1: Localizada diretamente dentro da CPU, extremamente rápida, mas com capacidade limitada.
+                    L2: Menos rápida que L1, mas com maior capacidade.
+                    L3: A mais lenta das caches, mas com capacidade ainda maior, usada para reduzir o tempo de 
+                       acesso à memória RAM.
+
+    Capacidade: Pequena, variando de alguns kilobytes (L1) a alguns megabytes (L3).
+
+  A memória cache desempenha um papel essencial em minimizar o tempo que a CPU gasta acessando dados da RAM, que é  
+ mais lenta.
+
 
 - Memória Principal (RAM): A RAM (Random Access Memory) é a memória principal e temporária de um sistema de 
  computador. Ela armazena dados e programas em execução, incluindo o sistema operacional, aplicativos abertos e 
@@ -274,3 +292,22 @@ memórias mais rápidas e temporárias até aquelas que fornecem armazenamento p
 
   A RAM é crítica para o desempenho de um sistema, pois fornece um espaço de trabalho temporário para os dados em 
  uso, permitindo que o computador execute tarefas de forma eficiente.
+
+
+- ROM (Read-Only Memory): É uma memória não volátil, o que significa que mantém seus dados mesmo quando o sistema 
+ está desligado. Diferente da RAM, a ROM não pode ser alterada ou escrita de forma dinâmica. Ela é usada para 
+ armazenar o firmware do sistema, como o BIOS, que contém as instruções fundamentais para inicializar o hardware 
+ do sistema e carregar o sistema operacional.
+
+    Função: Armazenar dados permanentes e críticos, como o BIOS e outros firmwares necessários para o 
+           funcionamento básico do sistema.
+
+    Capacidade: Pequena, geralmente de alguns megabytes.
+
+    Velocidade: Muito mais lenta que a RAM, mas sua função principal não requer alta velocidade, já que ela é 
+               usada apenas durante o processo de inicialização.
+
+  A ROM é essencial para a inicialização do sistema e outras funções básicas, mantendo dados essenciais de forma  
+ permanente.
+
+

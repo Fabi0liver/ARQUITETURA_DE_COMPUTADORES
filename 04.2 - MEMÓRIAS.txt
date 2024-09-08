@@ -239,6 +239,14 @@ urgentes sendo armazenadas de maneira mais lenta, mas permanente.
 
                                           "Tipos de Memórias"
 
+ Pense na memória de um computador como diferentes tipos de gavetas em um escritório. Algumas gavetas são usadas 
+para guardar documentos importantes que você precisa acessar rapidamente (como a memória RAM), enquanto outras 
+guardam arquivos antigos que você não precisa o tempo todo, mas quer ter à mão (como o HD ou SSD).
+
+ Também há aquelas gavetas que nunca perdem o que guardam, mesmo quando você fecha o escritório e vai embora, como 
+a memória ROM. Cada tipo de memória tem seu propósito, assim como as gavetas de um escritório têm diferentes 
+funções para organização.
+ 
  Aqui está uma explicação mais detalhada sobre cada um dos tipos de memória em um computador, abrangendo desde as 
 memórias mais rápidas e temporárias até aquelas que fornecem armazenamento permanente e removível.
 

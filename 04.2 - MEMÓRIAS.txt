@@ -235,3 +235,42 @@ memórias mais lentas e baratas, como HDs e SSDs, possuem uma capacidade muito m
 sistema funcione de forma otimizada, com as informações mais importantes sendo acessadas rapidamente e as menos 
 urgentes sendo armazenadas de maneira mais lenta, mas permanente.
 
+
+
+                                          "Tipos de Memórias"
+
+ Aqui está uma explicação mais detalhada sobre cada um dos tipos de memória em um computador, abrangendo desde as 
+memórias mais rápidas e temporárias até aquelas que fornecem armazenamento permanente e removível.
+
+- Registradores: São a forma de memória mais rápida em um computador. Localizados diretamente dentro da CPU, eles  
+ armazenam dados temporários que são usados imediatamente pela unidade de processamento. Devido à sua proximidade 
+ com a CPU, os registradores são essenciais para a execução eficiente de operações e instruções, desempenhando um 
+ papel crítico em cálculos rápidos e na execução de operações lógicas.
+
+    Função: Os registradores armazenam dados que a CPU está processando no momento, como números inteiros para 
+           cálculos, endereços de memória ou instruções de controle.
+
+    Capacidade: Muito limitada, com apenas alguns bits ou bytes de dados em cada registrador.
+
+    Velocidade: Extremamente rápida, muito mais rápida que outros tipos de memória, permitindo acesso instantâneo 
+               aos dados.
+
+  Os registradores são críticos para a execução de cálculos rápidos e estão no topo da hierarquia de memórias em 
+ termos de velocidade.
+
+
+- Memória Principal (RAM): A RAM (Random Access Memory) é a memória principal e temporária de um sistema de 
+ computador. Ela armazena dados e programas em execução, incluindo o sistema operacional, aplicativos abertos e 
+ informações processadas pela CPU. A RAM é volátil, o que significa que seus dados são perdidos quando o 
+ computador é desligado. No entanto, sua velocidade relativamente alta permite que a CPU acesse dados rapidamente 
+ enquanto está em execução.
+
+    Função: Armazenar temporariamente dados e programas que estão sendo usados no momento, permitindo que o 
+           processador acesse rapidamente as informações de que precisa.
+
+    Capacidade: Geralmente de gigabytes a dezenas de gigabytes em computadores modernos.
+
+    Velocidade: Mais rápida que a memória secundária (discos rígidos e SSDs), mas mais lenta que a memória cache.
+
+  A RAM é crítica para o desempenho de um sistema, pois fornece um espaço de trabalho temporário para os dados em 
+ uso, permitindo que o computador execute tarefas de forma eficiente.

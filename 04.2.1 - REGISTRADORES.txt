@@ -1,5 +1,6 @@
                                         REGISTRADORES
 
+
  Os registradores são componentes essenciais dentro do processador (CPU) e desempenham um papel crítico na 
 operação de qualquer sistema computacional. Eles funcionam como pequenas unidades de armazenamento temporário, 
 onde o processador armazena dados e instruções que estão sendo manipulados naquele exato momento. Diferente de 
@@ -27,7 +28,6 @@ otimizado, fazendo com que o tempo necessário para executar uma série de taref
 mesmo que os registradores ocupem um espaço relativamente pequeno na estrutura da CPU, sua importância no contexto 
 de desempenho e eficiência é imensurável, sendo fundamentais para a velocidade e precisão com que um sistema executa
 suas funções.
-
 
   
                                      "Tipos de  Registradores"
@@ -142,7 +142,6 @@ sistema. Eles funcionam como auxiliares diretos do processador, facilitando o ac
 informações necessárias para que a CPU execute suas funções de forma eficaz e ágil.
 
 
-
                                    "Tamanho de Registradores"
 
  O tamanho de um registrador é uma característica fundamental que define a quantidade de dados que o processador 
@@ -208,7 +207,6 @@ aplicativos que simplesmente não seriam possíveis em sistemas mais antigos com
 tamanho dos registradores é uma peça fundamental na evolução contínua da computação.
 
 
-
                                     "Velocidade dos Registradores"
 
  A velocidade dos registradores é um dos principais fatores que contribuem para o alto desempenho de um 
@@ -256,7 +254,6 @@ rápido da CPU. Graças à sua proximidade com o processador, sua operação em 
 simplicidade de design, os registradores garantem que o processador possa executar operações com o mínimo de 
 espera e o máximo de desempenho possível. Isso os torna essenciais para o processamento eficiente e contínuo de 
 dados em tempo real.
-
 
 
                                               "Conclusão"

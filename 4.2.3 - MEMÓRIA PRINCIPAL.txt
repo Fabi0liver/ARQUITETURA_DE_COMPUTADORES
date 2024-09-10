@@ -1,0 +1,38 @@
+                                      MEMÓRIA PRINCIPAL
+
+
+ A memória principal, comumente chamada de RAM (Random Access Memory), é uma das partes essenciais no 
+funcionamento de um computador. Ela pode ser comparada a uma mesa de trabalho: é onde o sistema armazena 
+temporariamente os dados e instruções que estão sendo usados enquanto o computador está ligado. Isso é fundamental 
+para o desempenho, já que a RAM é muito mais rápida que outros tipos de armazenamento, como HDs e SSDs, permitindo 
+ao processador acessar informações de maneira quase instantânea. Toda vez que você abre um programa ou carrega um 
+arquivo, ele é copiado da memória permanente para a RAM, para que o processador possa trabalhar com ele de forma 
+mais eficiente.
+
+ Ao contrário da memória de armazenamento, que guarda dados de forma permanente, a memória principal é volátil, o 
+que significa que seu conteúdo é apagado assim que o computador é desligado. Dessa forma, enquanto a RAM é 
+excelente para desempenho em tempo real, ela não pode ser usada para armazenar informações a longo prazo. A 
+quantidade de RAM disponível no sistema influencia diretamente o número de tarefas que o computador pode realizar 
+simultaneamente e a velocidade com que essas tarefas são executadas. Quanto mais memória principal, maior a 
+capacidade do computador de rodar diversos programas ao mesmo tempo, sem prejudicar o desempenho.
+
+ Além disso, a RAM trabalha em conjunto com o armazenamento secundário e a memória cache do processador, formando 
+um sistema de camadas que garante que as informações mais importantes estejam sempre acessíveis da forma mais 
+rápida possível. Essa estrutura é fundamental para o funcionamento eficiente do computador, seja em tarefas 
+básicas do dia a dia ou em atividades que exigem alto desempenho, como jogos, edição de vídeos ou grandes 
+planilhas.
+
+ A memória principal, ou RAM, é como a mesa onde o computador coloca tudo o que está usando naquele momento. 
+Imagine que o processador é uma pessoa trabalhando, e a RAM é o espaço onde ela espalha todos os papéis e 
+ferramentas que precisa para fazer o trabalho. Quanto maior a mesa, mais coisas ela pode organizar e acessar 
+rapidamente. Da mesma forma, quanto mais RAM o computador tiver, mais programas e dados ele consegue lidar ao 
+mesmo tempo, sem ficar lento.
+
+ Quando você abre um programa ou arquivo, ele sai do armazenamento permanente (como o HD ou SSD) e vai para a 
+memória RAM. Isso acontece porque a RAM é muito mais rápida e permite que o processador acesse as informações de 
+forma quase instantânea. É por isso que, quando você tem bastante memória RAM, o computador parece mais rápido e 
+fluido.
+
+ A memória principal, portanto, é um dos principais pilares para garantir que o computador execute tarefas de 
+forma rápida e sem interrupções. Sua presença e importância vão muito além de apenas "guardar dados", sendo 
+essencial para o fluxo contínuo de operações do sistema.

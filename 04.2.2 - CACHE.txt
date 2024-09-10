@@ -20,7 +20,12 @@ são mais rápidas, mas também mais caras e ocupam mais espaço físico em rela
 na memória principal. Portanto, o cache precisa ser gerenciado de forma eficiente para garantir que ele armazene 
 apenas as informações mais relevantes e utilizadas.
 
- O processo de funcionamento do cache pode ser descrito em termos de "hits" e "misses". Quando o processador procura por dados, ele primeiro verifica o cache. Se os dados estiverem lá, temos um "hit", ou seja, um acerto, e o processador pode acessá-los instantaneamente. Caso os dados não estejam no cache, ocorre um "miss", ou seja, uma falha, e o processador precisa buscar os dados na memória principal ou no disco, o que leva mais tempo. Para maximizar o desempenho, algoritmos inteligentes são utilizados para prever quais dados serão necessários em seguida, armazenando-os no cache antes mesmo de serem requisitados.
+ O processo de funcionamento do cache pode ser descrito em termos de "hits" e "misses". Quando o processador procura
+por dados, ele primeiro verifica o cache. Se os dados estiverem lá, temos um "hit", ou seja, um acerto, e o processador
+pode acessá-los instantaneamente. Caso os dados não estejam no cache, ocorre um "miss", ou seja, uma falha, e o 
+processador precisa buscar os dados na memória principal ou no disco, o que leva mais tempo. Para maximizar o desempenho,
+algoritmos inteligentes são utilizados para prever quais dados serão necessários em seguida, armazenando-os no cache 
+antes mesmo de serem requisitados.
 
  A introdução do cache na arquitetura dos computadores foi uma inovação crucial para aumentar o desempenho sem 
 aumentar diretamente a velocidade do processador. Isso ocorre porque a diferença de velocidade entre a CPU e a 
@@ -93,7 +98,8 @@ continua no cache L2 e, se necessário, no cache L3. Só depois de verificar tod
 buscará os dados na memória RAM, que é muito mais lenta. Essa organização em níveis permite que a CPU acesse 
 informações de forma eficiente, reduzindo o tempo de espera e melhorando o desempenho geral.
 
- Vamos explorar cada nível da hierarquia de cache (L1, L2, e L3) de maneira mais detalhada, abordando suas características, funções, e como eles colaboram para otimizar o desempenho do processador:
+ Vamos explorar cada nível da hierarquia de cache (L1, L2, e L3) de maneira mais detalhada, abordando suas 
+características, funções, e como eles colaboram para otimizar o desempenho do processador:
 
 
  - Cache L1: É a camada mais rápida da hierarquia de cache e está localizado diretamente nos núcleos do 

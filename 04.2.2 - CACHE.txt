@@ -462,10 +462,3 @@ velocidade e na eficiência do sistema. Compreender como o cache funciona e as e
 fundamental para projetar sistemas de computação que oferecem alto desempenho e resposta ágil.
 
   
-=======
-  
->>>>>>> 3728f83d97ffdd364fe1395fd8999b0711df4513
-=======
-  
->>>>>>> 3728f83d97ffdd364fe1395fd8999b0711df4513
->>>>>>> Stashed changes

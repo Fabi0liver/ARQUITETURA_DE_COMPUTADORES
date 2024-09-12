@@ -1,0 +1,26 @@
+                                     BARRAMENTO DO SISTEMA
+
+
+ O barramento do sistema é um dos principais elementos que compõem a estrutura de interconexão de um computador. 
+Ele funciona como uma via de comunicação que permite a troca de informações entre os componentes fundamentais do 
+sistema, como o processador (CPU), a memória RAM, os dispositivos de entrada e saída (I/O), e outros elementos 
+importantes. Sua função é garantir que todos esses componentes consigam "falar" uns com os outros de maneira 
+eficiente, facilitando o fluxo de dados, endereços e sinais de controle necessários para que o sistema funcione 
+melhor.
+
+ Para entender melhor, podemos imaginar o barramento do sistema como uma rodovia central em uma cidade. Nessa 
+rodovia, diversos veículos (dados) trafegam de um ponto a outro, transportando informações cruciais para o 
+funcionamento do sistema. Se a rodovia estiver em bom estado, o trânsito flui rapidamente; caso contrário, os 
+veículos ficam presos sem trânsito, o que prejudica o desempenho geral da cidade. Da mesma forma, se o barramento 
+do sistema for eficiente, os dados podem ser transportados rapidamente entre os componentes do computador.
+
+ Nos primórdios da computação, o barramento do sistema era muito simples, mas à medida que os sistemas 
+computacionais foram se tornando mais complexos, novos tipos de barramento surgiram para suportar diferentes 
+demandas. Além disso, a evolução das tecnologias de hardware trouxe inovações como barramentos mais rápidos e 
+especializados, que garantem que componentes modernos, como placas gráficas de alta performance e SSDs, possam 
+operar em sua capacidade máxima.
+
+
+
+                               "Estrutura do Barramento do Sistema"
+

@@ -291,7 +291,7 @@ dos sistemas de computação.
   eficiência na comunicação. O SATA permite velocidades de transferência de dados mais altas e uma conexão mais 
   direta e simples com os dispositivos de armazenamento.
 
- - Barramento NVMe (Memória Não Volátil Express): É uma interface de alta performance desenvolvida para conectar 
+ - Barramento NVMe (Non-Volatile Memory Express): É uma interface de alta performance desenvolvida para conectar 
   dispositivos de armazenamento, como SSDs, diretamente à placa-mãe usando o barramento PCIe. O NVMe foi projetado 
   para aproveitar a baixa latência e a alta largura de banda do PCIe, oferecendo velocidades de transferência de 
   dados muito superiores às do SATA. Com o NVMe, os dispositivos de armazenamento podem se comunicar diretamente 
@@ -310,7 +310,7 @@ dos sistemas de computação.
   enquanto o sistema está em funcionamento (plug-and-play). Ele também fornece energia para dispositivos 
   conectados, simplificando a integração de periféricos e aumentando a flexibilidade do sistema.
 
- - Barramento ISA (Arquitetura Padrão da Indústria): O barramento ISA foi um dos primeiros barramentos padrão para 
+ - Barramento ISA (Industry Standard Architecture): O barramento ISA foi um dos primeiros barramentos padrão para 
   PCs, utilizado principalmente nas décadas de 1980 e 1990. Ele permitia a conexão de placas de expansão e 
   dispositivos periféricos à placa-mãe, utilizando um barramento paralelo com suporte para 8 bits e 16 bits. 
   Embora tenha sido gradualmente substituído por barramentos mais avançados, o ISA desempenhou um papel crucial no 

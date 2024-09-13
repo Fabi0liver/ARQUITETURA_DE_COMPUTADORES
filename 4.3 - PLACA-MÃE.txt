@@ -527,4 +527,25 @@ espaço disponível, requisitos de expansão e desempenho desejado. Compreender 
 garantir que você escolha a placa-mãe certa para o seu sistema, proporcionando a compatibilidade e funcionalidade 
 necessárias para atender às suas expectativas.
 
-   
+
+
+                                             "Conclusão"
+
+ A placa-mãe é o coração e o sistema nervoso de qualquer computador, desempenhando um papel fundamental na 
+integração e coordenação dos diversos componentes que compõem o sistema. Ela é responsável por garantir que o 
+processador, a memória, o armazenamento e os periféricos funcionem juntos de maneira harmoniosa e eficiente.
+
+ Sua função vai além de apenas conectar os componentes; ela estabelece as vias de comunicação e fornece a energia 
+necessária para que cada parte do sistema opere corretamente. A escolha do formato da placa-mãe é crucial, pois 
+define o tamanho do gabinete e as possibilidades de expansão, refletindo diretamente nas capacidades e no 
+desempenho do computador.   
+
+ Os diferentes tipos e tamanhos de placas-mãe atendem a uma ampla gama de necessidades, desde sistemas compactos 
+para uso básico até construções avançadas de alto desempenho. Cada detalhe, desde o soquete do processador até os 
+slots de expansão e conectores de armazenamento, é projetado para oferecer flexibilidade, desempenho e 
+compatibilidade.
+
+ Em resumo, a placa-mãe não é apenas um componente central, mas o alicerce sobre o qual todo o sistema é 
+construído. Ela assegura que todos os elementos do computador trabalhem em sintonia, permitindo que o sistema 
+funcione de forma estável e eficiente. Compreender suas funções e opções disponíveis é essencial para montar ou 
+atualizar um computador, garantindo que ele atenda às suas necessidades e expectativas com a máxima eficiência.

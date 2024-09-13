@@ -32,7 +32,46 @@ tecnologias possíveis para formar um computador funcional e completo.
 
 
 
-                                     "Componentes da placa-mãe"
+                                "Conceitos de Onboard e Offboard"
+
+ Quando montamos ou atualizamos um computador, frequentemente nos deparamos com a necessidade de entender os 
+diferentes tipos de componentes e como eles são integrados ao sistema. Dois termos que frequentemente surgem nesse contexto são onboard e offboard. Estes termos ajudam a descrever a localização e a forma como os componentes são 
+conectados ou integrados à placa-mãe de um computador.
+
+ A placa-mãe é o coração do computador, uma peça fundamental que conecta todos os outros componentes e permite que 
+eles trabalhem em conjunto. Ela não apenas fornece os slots e conectores necessários para adicionar novos 
+dispositivos, mas também pode incluir diversos componentes integrados que facilitam o uso básico do sistema. Aqui 
+é onde os conceitos de onboard e offboard entram em cena.
+
+ - Componentes Onboard: São aqueles que estão integrados diretamente na placa-mãe. Isso significa que eles são 
+  soldados ou montados diretamente na placa e não podem ser removidos ou substituídos facilmente. Esses 
+  componentes são projetados para fornecer funcionalidades essenciais e básicas que permitem ao computador 
+  funcionar imediatamente após a montagem. Por exemplo, a maioria das placas-mãe modernas vem com áudio onboard, o 
+  que significa que você pode conectar fones de ouvido e alto-falantes diretamente à placa-mãe sem a necessidade 
+  de uma placa de som dedicada. Da mesma forma, muitos sistemas possuem gráficos onboard, o que permite conectar 
+  um monitor sem precisar de uma placa de vídeo adicional.
+
+ - Componentes Offboard: Por outro lado, os componentes offboard referem-se a dispositivos e placas que são 
+  adicionados ao sistema como unidades separadas. Esses componentes são conectados à placa-mãe através de slots de 
+  expansão, conectores ou interfaces dedicadas e podem ser facilmente substituídos ou atualizados conforme 
+  necessário. Placas de vídeo dedicadas, por exemplo, são um tipo comum de componente offboard. Elas são usadas 
+  para melhorar o desempenho gráfico do computador, oferecendo capacidades superiores às dos gráficos onboard. 
+  Placas de som offboard são outro exemplo, oferecendo qualidade de áudio avançada para usuários que buscam uma 
+  experiência sonora melhorada.
+
+ Os componentes onboard e offboard têm suas próprias vantagens e desvantagens. Os componentes onboard geralmente 
+são mais econômicos e simplificam a configuração do sistema, tornando-o uma escolha prática para muitos usuários. 
+No entanto, eles podem não oferecer o mesmo nível de desempenho ou flexibilidade que os componentes offboard. Por 
+outro lado, os componentes offboard permitem uma personalização e um desempenho mais avançado, sendo ideais para 
+usuários que desejam um controle mais específico sobre o hardware do seu computador.
+
+ Entender a diferença entre onboard e offboard é crucial para tomar decisões informadas sobre a construção ou 
+atualização de um computador. Essa compreensão ajuda a garantir que o sistema atenda às suas necessidades 
+específicas, seja em termos de desempenho, funcionalidade ou custo.
+
+
+
+                                    "Componentes da placa-mãe"
 
  A placa-mãe, como o coração do computador, não trabalha sozinha. Ela é responsável por interligar diversos 
 componentes essenciais que garantem o funcionamento adequado de todo o sistema. Esses componentes são conectados 

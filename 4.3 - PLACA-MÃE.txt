@@ -73,7 +73,8 @@ placa-mãe, seria impossível conectar e fazer funcionar todas as partes que com
                                 "Conceitos de Onboard e Offboard"
 
  Quando montamos ou atualizamos um computador, frequentemente nos deparamos com a necessidade de entender os 
-diferentes tipos de componentes e como eles são integrados ao sistema. Dois termos que frequentemente surgem nesse contexto são onboard e offboard. Estes termos ajudam a descrever a localização e a forma como os componentes são 
+diferentes tipos de componentes e como eles são integrados ao sistema. Dois termos que frequentemente surgem nesse
+contexto são onboard e offboard. Estes termos ajudam a descrever a localização e a forma como os componentes são 
 conectados ou integrados à placa-mãe de um computador.
 
  A placa-mãe é o coração do computador, uma peça fundamental que conecta todos os outros componentes e permite que 

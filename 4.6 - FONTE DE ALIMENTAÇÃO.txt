@@ -5,7 +5,8 @@
 energia necessária para que todos os componentes funcionem corretamente, transformando a energia da rede elétrica 
 em algo utilizável pelos circuitos internos. Sem uma fonte de alimentação adequada, o sistema simplesmente não 
 funcionaria, e se a energia fornecida não fosse estável, haveria risco de danos aos componentes mais sensíveis. 
-Apesar de sua importância, a fonte de alimentação é muitas vezes subestimada, e muitos usuários investem pouco tempo na escolha desse componente crítico.
+Apesar de sua importância, a fonte de alimentação é muitas vezes subestimada, e muitos usuários investem pouco 
+tempo na escolha desse componente crítico.
 
  Para entender melhor, pense na fonte de alimentação como um transformador que adapta a energia vinda da rede 
 elétrica para algo que o computador possa “digerir”. Assim como um carro precisa de combustível de boa qualidade 

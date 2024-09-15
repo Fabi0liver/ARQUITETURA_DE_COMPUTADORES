@@ -134,7 +134,7 @@ papéis essenciais para que tudo corra bem no ambiente digital.
                          dispositivos específicos, como eletrodomésticos, carros ou máquinas industriais.
 
 
- - Software de aplicativo é voltado para o usuário final e serve para realizar tarefas específicas, seja para 
+ - Software de Aplicativo: é voltado para o usuário final e serve para realizar tarefas específicas, seja para 
   produtividade, entretenimento, ou outra finalidade. Esses são os programas que usamos no dia a dia para realizar 
   diferentes atividades no computador.
 
@@ -161,6 +161,10 @@ papéis essenciais para que tudo corra bem no ambiente digital.
      Jogos: São exemplos de softwares de entretenimento que permitem uma interação interativa e imersiva. 
             Exemplos: Fortnite , The Witcher , League of Legends.
 
+     Aplicativos Móveis: Aplicativos específicos para rodar em smartphones e tablets, como redes sociais 
+                        (Instagram, Facebook), mensageiros (WhatsApp), e ferramentas de produtividade 
+                        Google Keep, Evernote).
+
 
  - Software Utilitário: É uma classe de programas que auxilia na manutenção e otimização do funcionamento do 
   sistema. Eles realizam funções como proteção contra malware, otimização de desempenho e backup de dados. Embora 
@@ -176,14 +180,20 @@ papéis essenciais para que tudo corra bem no ambiente digital.
 
     Exemplos:
 
-     Antivírus: Programas como Norton , Avast e Kaspersky protegem o sistema contra ameaças como vírus, malwares e 
-               outras formas de software mal-intencionado.
+     Antivírus/Antimalware: Programas como Norton , Avast e Kaspersky protegem o sistema contra ameaças como 
+                           vírus, malwares e outras formas de software mal-intencionado.
 
      Desfragmentadores de Disco: Softwares como o Defraggler otimizam o armazenamento dos arquivos no disco 
                                 rígido, melhorando o desempenho do sistema.
 
      Ferramentas de Backup: Programas como o Acronis True Image ajudam a realizar backups automáticos dos 
                            arquivos, garantindo que os dados estejam protegidos em caso de falha do sistema.
+
+     Compressores de Arquivos: Programas como o WinRAR e 7-Zip que comprimem e descomprimem arquivos para 
+                              economizar espaço em disco.
+
+     Otimização do Sistema: Programas como o CCleaner que limpam arquivos desnecessários e melhoram o desempenho 
+                           geral do sistema.
 
                      
  - Software de desenvolvimento: É voltado para os programadores e desenvolvedores, fornecendo as ferramentas 
@@ -206,12 +216,16 @@ papéis essenciais para que tudo corra bem no ambiente digital.
                                                   usadas por desenvolvedores para escrever e depurar código, com 
                                                   recursos como autocompletar e análise de sintaxe.
 
-     Compiladores: Programas como o GCC (GNU Compiler Collection) que convertem o código-fonte escrito pelos 
-                  desenvolvedores em código repetido pelo computador.
+     Compiladores e Interpretadores: Softwares que convertem o código-fonte em código diferente ou interpretam 
+                                    linguagens de script. Exemplos incluem: , GCC (GNU Compiler Collection), 
+                                    Python Interpreter
 
      Sistemas de Controle de Versão: Ferramentas como Git e SVN permitem que os desenvolvedores gerenciem versões 
                                     diferentes de seus projetos de software, colaborem em equipes e rastreiem 
                                     alterações ao longo do tempo.
+
+     Ferramentas de Teste: Softwares que automatizam o teste de código, como JUnit para Java ou Selenium para 
+                          testes de interfaces web.
 
 
  - Firmware: É um tipo de software gravado diretamente no hardware, em chips de memória ROM (Read-Only Memory) ou 
@@ -237,6 +251,10 @@ papéis essenciais para que tudo corra bem no ambiente digital.
 
      Firmware de impressoras: Controle o funcionamento básico da impressora, como movimento dos cabeçotes de 
                              impressão e alimentação de papel.
+
+     Firmware de Dispositivos IoT (Internet das Coisas): Controla pequenos dispositivos conectados, como 
+                                  termostatos inteligentes, câmeras de segurança, ou dispositivos domésticos 
+                                  inteligentes.
 
  Cada tipo de software desempenha um papel específico na computação. O software de sistema gerencia os recursos e 
 o funcionamento do computador, o software de aplicativo permite que os usuários realizem tarefas específicas, o 

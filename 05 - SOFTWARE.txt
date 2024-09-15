@@ -29,7 +29,7 @@ conjunto de componentes e permitindo que ele faça desde as tarefas mais simples
 
 
 
-	                   "Principais Funções do Software"
+	                     "Principais Funções do Software"
 
  O software desempenha um papel essencial na computação, sendo o vital que conecta o usuário ao hardware e 
 transforma dispositivos eletrônicos em ferramentas funcionais e interativas. Ao contrário do hardware, que 
@@ -264,14 +264,89 @@ para criar novos programas, e o controle de firmware o hardware em um nível fun
  Entender esses tipos principais de software ajuda a visualizar como diferentes camadas de programas de interação 
 para criar um sistema computacional completo. Cada um desses tipos tem sua importância única no funcionamento e 
 desenvolvimento de sistemas, desde a interação com o hardware até o desenvolvimento de novos softwares.
+
+
+
+                                     "Licenças de Software"
+
+ As licenças de software são acordos legais que determinam como o software pode ser usado, modificado e 
+distribuído. Eles estabelecem os direitos e restrições de quem utiliza ou desenvolve software, sendo essenciais 
+para definir o grau de liberdade que os usuários têm ao lidar com o programa. Dependendo do tipo de licença, você 
+pode ter mais ou menos liberdade para acessar o código-fonte, modificar o software ou distribuí-lo para outras 
+pessoas.
+
+ Existem diferentes tipos de licenças, que variam desde as mais restritivas, como as de software proprietário, até 
+as mais permissivas, como as de software livre ou de código aberto. Cada tipo de licença serve a um propósito 
+diferente e está alinhado com a visão do desenvolvedor ou da organização que criou o software. 
+
+ Vamos dar uma olhada nos principais tipos:
+
+ - Licenças proprietárias são aquelas em que o desenvolvedor ou a empresa retém todos os direitos sobre o 
+  software. O usuário tem permissão apenas para usar o programa dentro das condições impostas pela licença, 
+  geralmente sem acesso ao código-fonte e sem a possibilidade de modificá-lo.
+
+    Exemplo: Microsoft Windows , Adobe Photoshop.
+
+    Características: A licença geralmente é paga e o usuário não pode alterar ou redistribuir o software.
+
+
+ - O software livre oferece mais liberdade aos usuários. Esse tipo de licença permite que você utilize, modifique 
+  e distribua o software como quiser, desde que mantenham as mesmas condições de liberdade para quem receber o 
+  software.
+
+   Exemplo: Licença GPL (General Public License).
+
+   Características: O código-fonte está disponível, e qualquer software derivado deve ser distribuído sob a mesma 
+                   licença.
+
+
+ - Licenças de Código Aberto: São semelhantes às de software livre, permitindo o uso, modificação e 
+  redistribuição do software. No entanto, as licenças de código aberto podem ser um pouco mais flexíveis e menos 
+  focadas nas questões filosóficas de liberdade dos usuários.
+
+   Exemplo: Licença Apache , Licença MIT.
+
+   Características: Mais permissivas, permitem integrar código aberto em software proprietário, desde que os 
+                   créditos sejam mantidos.
+
+
+ - Licenças Freemium e Shareware: Esses modelos correspondem à distribuição gratuita com cobrança por recursos 
+  adicionais ou pelo uso continuado do software após um período de avaliação.
+
+   Freemium: O software básico é gratuito, mas as funcionalidades avançadas são pagas.
+
+   Shareware : Oferece um período de teste gratuito, após o qual o usuário deve pagar para continuar usando.
+
+
+ - Software como Serviço (SaaS): No modelo SaaS, o software é oferecido como um serviço via internet, geralmente 
+  por meio de assinatura. O usuário não possui o software em si, mas paga pelo direito de utilizá-lo.
+
+   Exemplo : Google Workspace , Salesforce.
+
+   Características: O software é acessado online e cobrado por assinatura, com atualizações e suporte incluído.
+
+
+ - Domínio Público: Não tem restrições de direitos autorais. Ele pode ser usado, modificado e distribuído por   
+  qualquer pessoa, sem necessidade de licenças.
+
+    Exemplo : Softwares antigos cujos direitos autorais expiraram ou foram renunciados pelo criador.
+
+    Características : Qualquer um pode fazer o que quiser com o software, sem limitações.
+
+
+ As licenças de software são fundamentais para definir como podemos usar, modificar e distribuir programas. Elas 
+variam desde as mais restritivas, como as proprietárias, que limitam o acesso ao código-fonte e mantêm o controle 
+sobre o software, até as mais permissivas, como as de software livre e de código aberto, que promovem a 
+colaboração e o compartilhamento. Modelos como freemium e SaaS ainda oferecem opções híbridas, combinando o uso 
+gratuito com funcionalidades pagas.
+
+ Entender essas licenças é essencial tanto para desenvolvedores quanto para usuários. Enquanto os desenvolvedores 
+escolhem licenças que refletem seus valores e estratégias de negócio, os usuários garantem que estão respeitando 
+os direitos autorais e usando o software de acordo com suas regras. Assim, as licenças moldam a forma como 
+interagimos com a tecnologia, garantindo equilíbrio entre inovação e proteção dos direitos de criação.
+
       
      
  
      
     
-      
-      
-
-
-
-

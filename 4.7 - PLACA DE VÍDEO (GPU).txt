@@ -1,7 +1,8 @@
                                            PLACA DE VÍDEO
 
 
- Imagine que seu computador é como uma orquestra sinfônica, onde cada instrumento tem um papel crucial na criação de uma performance harmoniosa. Neste cenário, a placa de vídeo atua como o maestro, coordenando a parte visual do 
+ Imagine que seu computador é como uma orquestra sinfônica, onde cada instrumento tem um papel crucial na criação
+de uma performance harmoniosa. Neste cenário, a placa de vídeo atua como o maestro, coordenando a parte visual do 
 espetáculo. Ela é o componente responsável por transformar os dados digitais do seu computador em imagens e vídeos 
 que você vê na tela. Sem uma placa de vídeo eficiente, a qualidade da imagem seria comprometida, e a experiência 
 visual no computador não exigia a mesma clareza e vivacidade.
@@ -33,11 +34,11 @@ criação dessa experiência visual.
 
                                        "O que é uma GPU"
 
- A GPU (Graphics Processing Unit), ou Unidade de Processamento Gráfico, é um componente essencial do computador especializado na criação e 
-processamento de gráficos. Se você imagina o computador como um artista em uma galeria de arte, a GPU é o pintor 
-que traz as imagens e vídeos de vida com detalhes impressionantes. Ao contrário da CPU (Unidade Central de 
-Processamento), que é um "cérebro" capaz de lidar com uma variedade de tarefas, a GPU é como um artista 
-especializado em criar obras visuais.
+ A GPU (Graphics Processing Unit), ou Unidade de Processamento Gráfico, é um componente essencial do computador 
+especializado na criação e processamento de gráficos. Se você imagina o computador como um artista em uma galeria 
+de arte, a GPU é o pintor que traz as imagens e vídeos de vida com detalhes impressionantes. Ao contrário da 
+CPU (Unidade Central de Processamento), que é um "cérebro" capaz de lidar com uma variedade de tarefas, a GPU
+é como um artista especializado em criar obras visuais.
 
  Enquanto uma CPU é projetada para lidar com um vasto leque de operações gerais, uma GPU é otimizada para 
 processar gráficos e realizar cálculos complexos relacionados à visualização. A CPU pode ser comparada a um 
@@ -235,7 +236,10 @@ quantidade e o tipo de VRAM é uma parte importante da escolha de sua placa de v
 papéis cruciais: resolução, qualidade gráfica e taxas de quadros. Esses elementos são interdependentes, 
 impactantes e diretamente na experiência visual e no desempenho geral dos jogos e aplicativos gráficos. 
 
- A resolução define o nível de detalhe que você vê na tela, a qualidade gráfica ajusta o nível de detalhes e efeitos visuais, e as taxas de quadros determinam a fluidez da imagem que você está vendendo. Compreender como cada um desses fatores influencia o desempenho da placa de vídeo pode ajudá-lo a ajustar suas configurações para obter a melhor experiência possível.
+ A resolução define o nível de detalhe que você vê na tela, a qualidade gráfica ajusta o nível de detalhes e efeitos
+visuais, e as taxas de quadros determinam a fluidez da imagem que você está vendendo. Compreender como cada um desses
+fatores influencia o desempenho da placa de vídeo pode ajudá-lo a ajustar suas configurações para obter a melhor 
+experiência possível.
 
  - Resolução: Refere-se à quantidade de pixels que uma tela pode exibir, medida em largura x altura (por exemplo, 
   1920 x 1080 pixels). Quanto maior a resolução, mais pixels são usados ​​para criar a imagem, o que resulta em 
@@ -274,7 +278,8 @@ para a eficiência e a capacidade de processamento gráfico da placa. Entender e
 avaliar e escolher uma placa de vídeo que atenda às suas necessidades específicas, seja para jogos, criação de 
 conteúdo ou tarefas gráficas intensivas. 
 
- Vamos explorar os principais componentes que afetam o desempenho de uma placa de vídeo, desde os núcleos de processamento até a tecnologia de resfriamento.
+ Vamos explorar os principais componentes que afetam o desempenho de uma placa de vídeo, desde os núcleos de 
+processamento até a tecnologia de resfriamento.
 
  - Núcleos CUDA e Processadores de Fluxo: Núcleos CUDA, presentes em placas NVIDIA, e Processadores de Fluxo, em 
   placas AMD, são unidades responsáveis ​​pelo processamento paralelo de dados. Quanto mais núcleos ou eficiência  

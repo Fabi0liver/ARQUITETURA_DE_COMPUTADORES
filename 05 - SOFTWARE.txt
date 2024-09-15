@@ -118,14 +118,20 @@ papéis essenciais para que tudo corra bem no ambiente digital.
     Exemplos:
 
      Sistema Operacional (SO): É o principal componente do software do sistema, responsável por gerenciar o 
-                               hardware e fornecer uma plataforma para os aplicativos. Exemplos: Windows, Linux, 
-                               macOS.
+                               hardware e fornecer uma plataforma para os aplicativos. Existem subcategorias como:
+                                 
+                                SO de Desktop : Windows, macOS, Linux.
+                                SO de Servidor : Windows Server, Linux Server, Ubuntu Server.
+                                SO Móvel : Android, iOS.
 
      Drivers de Dispositivo: Pequenos programas que permitem que o sistema operacional se comunique com 
                             dispositivos de hardware como impressoras, placas de vídeo e dispositivos USB.
 
-     BIOS/UEFI: Um firmware presente nas placas-mãe que realizam o boot do sistema e fornece as primeiras 
-                instruções de funcionamento ao hardware.
+     Gerenciadores de Boot: Programas como o GRUB (Linux) que ajudam a inicializar múltiplos sistemas        
+                           operacionais.
+
+     Sistemas Embarcados: Um tipo especializado de software de sistema que é projetado para controlar                  
+                         dispositivos específicos, como eletrodomésticos, carros ou máquinas industriais.
 
 
  - Software de aplicativo é voltado para o usuário final e serve para realizar tarefas específicas, seja para 
@@ -212,7 +218,34 @@ papéis essenciais para que tudo corra bem no ambiente digital.
   memória flash. Ele atua em um nível muito básico, controlando o funcionamento do hardware. O firmware é 
   essencial para que o hardware saiba o que fazer, mesmo sem um sistema operacional.
  
-    
+    Principais funções:
+
+     Controle direto do hardware: O firmware fornece as instruções básicas para que o hardware funcione 
+                                 corretamente.
+
+     Execução em um nível muito baixo: O firmware funciona logo que o dispositivo está ligado, antes mesmo do 
+                                      sistema operacional ser carregado.
+
+
+    Exemplos:
+
+     BIOS/UEFI: Um firmware presente nas placas-mãe, que inicializa o hardware quando o computador é ligado e 
+               carrega o sistema operacional.
+
+     Firmware de Roteadores: O software interno dos roteadores que controla sua operação básica, como roteamento 
+                            de pacotes de dados.
+
+     Firmware de impressoras: Controle o funcionamento básico da impressora, como movimento dos cabeçotes de 
+                             impressão e alimentação de papel.
+
+ Cada tipo de software desempenha um papel específico na computação. O software de sistema gerencia os recursos e 
+o funcionamento do computador, o software de aplicativo permite que os usuários realizem tarefas específicas, o 
+software específico mantém o sistema otimizado e protegido, o software de desenvolvimento oferece as ferramentas 
+para criar novos programas, e o controle de firmware o hardware em um nível fundamental.
+
+ Entender esses tipos principais de software ajuda a visualizar como diferentes camadas de programas de interação 
+para criar um sistema computacional completo. Cada um desses tipos tem sua importância única no funcionamento e 
+desenvolvimento de sistemas, desde a interação com o hardware até o desenvolvimento de novos softwares.
       
      
  

@@ -7,7 +7,8 @@ será construído por cima, como os aplicativos e sistemas que utilizamos diaria
 impossível rodar os programas que usamos, pois ele estabelece o ambiente necessário para que eles funcionem 
 corretamente.
 
- Quando falamos de software básico , estamos nos referindo a um conjunto de programas que garantem que o hardware  (a parte física do computador, como o processador e a memória) e o software (os programas e aplicações) trabalhem 
+ Quando falamos de software básico , estamos nos referindo a um conjunto de programas que garantem que o hardware  
+(a parte física do computador, como o processador e a memória) e o software (os programas e aplicações) trabalhem 
 juntos de maneira eficiente. Imagine que software básico  é como um tradutor entre dois idiomas diferentes: ele 
 pega os comandos que você dá ao computador e faz com que o hardware entenda o que precisa ser feito, executando as 
 tarefas corretamente.
@@ -71,7 +72,12 @@ funcionamento de qualquer sistema.
  seguro ao longo do tempo. O usuário não precisa se preocupar com essas atualizações, já que a própria software   
  básico  cuida disso automaticamente.
 
-O software básico  é como o maestro de uma orquestra que harmoniza o funcionamento de todos os elementos do sistema de computador. Desde o gerenciamento dos recursos, passando pela comunicação entre hardware e software, até a segurança e manutenção, ele desempenha um papel vital para garantir que tudo funcione sem problemas. Sem ele, as máquinas que usamos diariamente, seja um computador simples ou um servidor mais complexo, não seriam capazes de realizar suas funções de forma eficiente. Por isso, entender a importância e as funções da base de software é fundamental para compreendermos como a tecnologia que usamos todos os dias realmente funciona.
+O software básico  é como o maestro de uma orquestra que harmoniza o funcionamento de todos os elementos do sistema 
+de computador. Desde o gerenciamento dos recursos, passando pela comunicação entre hardware e software, até a 
+segurança e manutenção, ele desempenha um papel vital para garantir que tudo funcione sem problemas. Sem ele, as
+máquinas que usamos diariamente, seja um computador simples ou um servidor mais complexo, não seriam capazes de 
+realizar suas funções de forma eficiente. Por isso, entender a importância e as funções da base de software é 
+fundamental para compreendermos como a tecnologia que usamos todos os dias realmente funciona.
 
 
 

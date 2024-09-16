@@ -1,6 +1,5 @@
 # HARDWARE E SOFTWARE
 
-# Entendendo a Relação entre Hardware e Software
 
 Imagine um computador como uma fábrica. O hardware é como as máquinas e a infraestrutura da fábrica: o que faz o trabalho físico. O software, por outro lado, é como os engenheiros e operadores que dizem às máquinas o que fazer. Sem as máquinas (hardware), os engenheiros (software) não têm nada para trabalhar, e sem os engenheiros, as máquinas não saberiam o que fazer.
 

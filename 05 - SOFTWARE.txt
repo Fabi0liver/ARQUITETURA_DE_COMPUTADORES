@@ -95,7 +95,8 @@ uma tecnologia de maneira mais eficiente. Desde programas que usamos no dia a di
 até aqueles que funcionam nos bastidores, garantindo que o sistema funcione corretamente, o software desempenha 
 papéis essenciais para que tudo corra bem no ambiente digital.
 
- Vamos conhecer alguns dos principais software, explicando suas funções e exemplos de forma detalhada. Isso vai te ajudar a entender melhor o papel de cada um no contexto da computação.
+ Vamos conhecer alguns dos principais software, explicando suas funções e exemplos de forma detalhada. Isso vai 
+te ajudar a entender melhor o papel de cada um no contexto da computação.
 
 
  - Software de Sistema (Básico): O software do sistema é a base para quais outros softwares e o próprio hardware 

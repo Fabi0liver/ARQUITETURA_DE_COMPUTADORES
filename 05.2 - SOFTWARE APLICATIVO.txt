@@ -1,0 +1,30 @@
+                                          SOFTWARE APLICATIVO
+
+
+ O software aplicativo é uma camada que conecta diretamente os usuários às funcionalidades que eles desejam em um 
+computador ou dispositivo. Enquanto o software básico cuida de gerenciar o sistema e o hardware, o software 
+aplicativo é uma ferramenta que as pessoas utilizam para realizar tarefas específicas, como editar documentos,navegar
+na internet, ou assistir a vídeos. É como o conjunto de ferramentas que alguém escolhe para realizar uma 
+obra específica, seja um martelo para pregar ou um pincel para pintar.
+
+ Diferente do software básico, que opera nos bastidores, o software é visível e interativo. Ele é apresentado através
+de interfaces amigáveis, projetadas para que os usuários possam realizar tarefas com facilidade. Quando você usa um 
+editor de texto para escrever um artigo ou um navegador para visitar um site, está utilizando um aplicativo de 
+software.Ele permite que você execute ações que precisam de maneira simples, sem que seja necessário entender como o
+sistema funciona internamente.
+
+ Além disso, o software aplicativo é amplamente diverso e personalizável. Existem aplicativos para praticamente todas
+as necessidades imagináveis, desde programas de produtividade, como planilhas e editores de texto, até ferramentas de 
+lazer e entretenimento, como jogos e reprodutores de música. Cada aplicativo é desenhado para atender a um propósito
+específico, ou que torna sua utilidade extremamente variada e adaptada às necessidades individuais ou empresariais.
+
+ Outra característica importante do software aplicativo é sua evolução contínua. Novas versões são constantemente 
+lançadas para melhorar a experiência do usuário, corrigir falhas e adicionar funcionalidades. Isso reflete a maneira
+como o mundo digital está sempre em mudança, e o aplicativo de software acompanha essa dinâmica, tornando-se cada vez 
+mais integrado às demandas dos usuários e às novas tecnologias.
+
+ Por fim, o software aplicativo é essencial para a experiência que temos com computadores e dispositivos móveis. Ele 
+transforma as possibilidades do hardware e do software básico em ferramentas concretas e úteis, possibilitando que 
+todos, independentemente de seus conhecimentos técnicos, possam aproveitar ao máximo a tecnologia à sua disposição. 
+Sem ele, as capacidades do hardware e do software básico seriam limitadas ao nível técnico, e o uso cotidiano dos 
+dispositivos seria inviável.

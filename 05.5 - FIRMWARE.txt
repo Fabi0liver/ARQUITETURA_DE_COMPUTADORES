@@ -49,7 +49,8 @@ controlando as funções básicas e essenciais de um dispositivo. Ele está grav
 primeiro a agir quando você liga seu aparelho, garantindo que todas as peças e componentes estejam prontos para 
 funcionar. Sem ele, o sistema nem sequer saberia como começar a operar, como um carro que não dá partida.
 
- Agora, vamos explorar suas principais funções e características, e entender por que ele é tão importante para o funcionamento eficiente dos dispositivos.
+ Agora, vamos explorar suas principais funções e características, e entender por que ele é tão importante para
+o funcionamento eficiente dos dispositivos.
 
  - Inicialização do Sistema (Booting): O firmware é responsável por iniciar o sistema quando você liga um 
   dispositivo. Ele verifica se todos os componentes estão funcionando corretamente e, em seguida, carrega o 
@@ -122,7 +123,8 @@ por onde começar. Ele inicia o sistema, garante que os componentes estejam func
 comuniquem constantemente com o hardware, mantendo o sistema operacional informado sobre o estado de cada parte 
 física do dispositivo. 
 
- Agora, vamos explorar em mais detalhes as funções dessa interação e por que ela é tão importante para a saúde e eficiência de qualquer dispositivo.
+ Agora, vamos explorar em mais detalhes as funções dessa interação e por que ela é tão importante para a saúde 
+e eficiência de qualquer dispositivo.
 
  - Inicialização do Sistema e Verificação de Hardware: O firmware tem um papel crucial para que o dispositivo 
   esteja ligado. Esse processo de inicialização é conhecido como POST (Power-On Self-Test). Ele faz uma varredura 

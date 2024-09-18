@@ -5,7 +5,8 @@
 do sistema operacional e do hardware do computador. Para entender melhor, imagine que o sistema operacional do seu 
 computador é como o alicerce de um edifício. Ele fornece a estrutura básica necessária para que tudo funcione, 
 permitindo que você execute aplicativos e interaja com o hardware. No entanto, assim como um edifício precisa de 
-manutenção para garantir que tudo continue em boas condições, o sistema operacional precisa do suporte adicional que os softwares utilitários oferecem.
+manutenção para garantir que tudo continue em boas condições, o sistema operacional precisa do suporte adicional 
+que os softwares utilitários oferecem.
 
  Esses programas são essenciais porque cuidam de tarefas que o sistema operacional básico não aborda diretamente. 
 Enquanto você usa seu computador para atividades do dia a dia, como escrever documentos ou navegar na internet, o 
@@ -19,7 +20,11 @@ Esses programas muitas vezes operam em segundo plano, sem que você perceba, mas
 saúde e na eficiência do seu computador. É como se o software utilitário fosse o serviço de manutenção que garante 
 que todos os componentes do seu sistema estejam funcionando corretamente e sem problemas.
 
- Além das funções de proteção e organização, muitos softwares utilitários incluem ferramentas para fazer backup dos seus dados, diagnosticar problemas e ajustar as configurações do sistema. Isso é essencial para evitar perda de dados importantes e para resolver problemas antes que eles afetem o desempenho do computador. Sem esses programas, seu computador pode enfrentar problemas sérios de desempenho e segurança, assim como um carro pode ter problemas se não receber manutenção regular.
+ Além das funções de proteção e organização, muitos softwares utilitários incluem ferramentas para fazer backup 
+dos seus dados, diagnosticar problemas e ajustar as configurações do sistema. Isso é essencial para evitar perda
+de dados importantes e para resolver problemas antes que eles afetem o desempenho do computador. Sem esses 
+programas, seu computador pode enfrentar problemas sérios de desempenho e segurança, assim como um carro pode ter 
+problemas se não receber manutenção regular.
 
  Portanto, o software utilitário é fundamental para garantir que seu computador continue operando de forma suave e 
 segura. Embora muitas vezes seja invisível e seu trabalho passe despercebido, a manutenção que ele realiza é 
@@ -172,7 +177,10 @@ sistema operacional e do hardware do computador. Eles usam aplicativos comuns, c
 navegadores, para se concentrarem em funções que garantem o bom funcionamento e a segurança do sistema como um 
 todo.
 
- Cada tipo de software oferecido oferece um conjunto específico de funções e características, atendendo a diferentes necessidades do sistema. Esses programas podem ajudar desde a manutenção do desempenho do computador até a proteção contra ameaças de segurança. Compreender os diferentes tipos de software úteis e como eles funcionam pode fornecer uma visão mais clara sobre como manter o computador saudável e eficiente.
+ Cada tipo de software oferecido oferece um conjunto específico de funções e características, atendendo a diferentes
+necessidades do sistema. Esses programas podem ajudar desde a manutenção do desempenho do computador até a proteção 
+contra ameaças de segurança. Compreender os diferentes tipos de software úteis e como eles funcionam pode fornecer 
+uma visão mais clara sobre como manter o computador saudável e eficiente.
 
  Exploraremos alguns tipos diferentes de software importantes. Cada tipo será descrito em detalhes, com exemplos 
 práticos e explicados sobre suas funções principais. Essa abordagem será útil para entender melhor como esses 

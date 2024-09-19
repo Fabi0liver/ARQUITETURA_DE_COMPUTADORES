@@ -156,12 +156,81 @@ utilizar o software de acordo com suas necessidades.
                              modelo de licença permite que os usuários modifiquem o software de acordo com suas 
                              necessidades específicas, o que pode resultar em inovações significativas.
 
- A GPL é uma licença que defende os direitos dos usuários, promovendo a liberdade e a colaboração no 
-desenvolvimento de software. Ao garantir que o código permaneça aberto e acessível, a GPL não só fomenta a 
-inovação, mas também ajuda a construir uma comunidade forte de desenvolvedores e usuários. Com suas 
-características e implicações, a GPL continua a desempenhar um papel fundamental na evolução do software livre, 
-sendo uma escolha popular para muitos projetos de código aberto.
-                      
-  
+   A GPL é uma licença que defende os direitos dos usuários, promovendo a liberdade e a colaboração no 
+  desenvolvimento de software. Ao garantir que o código permaneça aberto e acessível, a GPL não só fomenta a 
+  inovação, mas também ajuda a construir uma comunidade forte de desenvolvedores e usuários. Com suas 
+  características e implicações, a GPL continua a desempenhar um papel fundamental na evolução do software livre, 
+  sendo uma escolha popular para muitos projetos de código aberto.
+
+
+ - LGPL (Lesser General Public License): A LGPL, ou Lesser General Public License, é uma licença de software livre 
+  que permite que os desenvolvedores utilizem e integrem bibliotecas de software em seus projetos, mesmo que esses 
+  projetos sejam proprietários. Ela foi criada para fornecer uma alternativa mais flexível em relação à GPL 
+  (General Public License), permitindo que o código licenciado sob a LGPL seja usado em aplicações que não 
+  compartilham o mesmo tipo de licença.
+
+   Diferentemente da GPL, que exige que qualquer software que utilize código sob essa licença também seja 
+  distribuído sob a mesma licença, a LGPL permite que o código seja vinculado a softwares que não são 
+  necessariamente de código aberto. Isso a torna uma escolha popular entre desenvolvedores que desejam aproveitar 
+  bibliotecas livres sem comprometer a natureza comercial de seus próprios produtos.
+
+    Principais Características:  
+
+                             - Uso Livre: A LGPL permite que qualquer um use, modifique e distribua o código, 
+                               desde que as modificações ao próprio código LGPL sejam publicadas sob a mesma     
+                               licença.
+
+                             - Integração com Software Proprietário: É possível usar bibliotecas LGPL em softwares 
+                              que não são de código aberto, sem a obrigação de liberar o código fonte do software 
+                              principal.  
+
+                             - Modificações Abertas: Se um desenvolvedor modificar uma biblioteca licenciada sob a 
+                              LGPL, ele deve disponibilizar o código dessas modificações, mas não precisa abrir o 
+                              código do software que utiliza essa biblioteca.
+
+                             - Manutenção da Liberdade: O foco da LGPL é manter a liberdade do software, 
+                              assegurando que as bibliotecas continuem disponíveis para todos.     
+
+                             - Adoção Ampla: Muitas bibliotecas populares utilizam a LGPL, tornando-a uma opção 
+                              comum para desenvolvedores que desejam equilibrar a liberdade de uso com a 
+                              viabilidade comercial. 
+
+    Exemplos Software: 
+
+                      GTK+: Uma biblioteca de widgets para a construção de interfaces gráficas. A GTK+ é 
+                           amplamente utilizada em ambientes de desktop Linux e é um exemplo clássico de 
+                           biblioteca licenciada sob a LGPL, permitindo que os desenvolvedores criem aplicações 
+                           proprietárias que a utilizam.
+
+                      FFmpeg: Uma biblioteca para manipulação de áudio e vídeo. Embora a FFmpeg seja geralmente 
+                             distribuída sob a GPL, algumas partes dela estão disponíveis sob a LGPL, permitindo 
+                             que as pessoas integrem funcionalidades de áudio e vídeo em seus próprios softwares, 
+                             mesmo que sejam comerciais.
+
+                      libxml2: Uma biblioteca para análise e manipulação de documentos XML. A libxml2 é uma 
+                              biblioteca amplamente utilizada em projetos que exigem manipulação de dados XML, e 
+                              sua licença LGPL permite que ela seja incorporada em softwares comerciais.
+
+    Vantagens e Desvantagens: Apresenta várias vantagens, como a flexibilidade que oferece aos desenvolvedores, 
+                             permitindo que usem bibliotecas de código aberto em projetos comerciais sem a 
+                             necessidade de abrir o código-fonte do software principal. Isso pode facilitar a 
+                             adoção de tecnologias de código aberto em ambientes empresariais, incentivando mais 
+                             desenvolvedores a utilizarem e contribuírem para o software livre.
+
+                              Por outro lado, uma desvantagem é que a LGPL pode ser menos atrativa para 
+                             desenvolvedores que desejam garantir que todo o código que utilizam seja de código 
+                             aberto. Além disso, a necessidade de divulgar modificações em bibliotecas LGPL pode 
+                             ser vista como um ônus para algumas empresas, que preferem manter o controle total 
+                             sobre seu código.
+
+   A LGPL (Lesser General Public License) é uma licença que oferece uma abordagem equilibrada para o uso de 
+  software livre em contextos comerciais. Sua flexibilidade permite que desenvolvedores integrem bibliotecas de 
+  código aberto em suas aplicações sem sacrificar a natureza proprietária de seus projetos, o que é uma grande 
+  vantagem. Ao mesmo tempo, a LGPL incentiva a liberdade de modificação e distribuição, promovendo a colaboração e 
+  o compartilhamento no ecossistema de software livre. Essa combinação de características torna a LGPL uma opção 
+  valiosa tanto para desenvolvedores individuais quanto para empresas que desejam aproveitar o melhor dos dois 
+  mundos: inovação e comercialização.
+
+                        
                                
 

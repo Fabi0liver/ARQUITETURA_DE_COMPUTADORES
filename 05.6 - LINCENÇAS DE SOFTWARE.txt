@@ -1,0 +1,35 @@
+                                     LINCENÇAS DE SOFTWARE
+
+
+ Quando falamos de licenças de software, estamos entrando em um universo que regula a forma como utilizamos, 
+compartilhamos e distribuímos programas de computador. As licenças são contratos que definem as permissões e 
+limitações associadas ao uso de um software, estabelecendo o que pode ou não ser feito com ele. Sem essas 
+licenças, seria impossível garantir que os desenvolvedores, empresas e até os próprios usuários soubessem quais 
+são seus direitos e obrigações ao utilizar um determinado programa.
+
+ Essas licenças têm um papel fundamental em proteger o trabalho intelectual dos programadores e das empresas que 
+desenvolvem os softwares, ao mesmo tempo em que equilibram o acesso e o controle sobre os recursos tecnológicos. 
+Elas garantem que os desenvolvedores sejam reconhecidos pelo seu trabalho e possam ser recompensados de acordo com 
+os termos que escolhem, seja com lucro financeiro, seja com o compartilhamento aberto de conhecimento.
+
+ Além disso, as licenças também são importantes para os usuários, pois asseguram que eles utilizem o software de 
+maneira legal e dentro das diretrizes estabelecidas. Isso é fundamental tanto para indivíduos quanto para 
+empresas, já que o uso indevido de software sem a licença correta pode resultar em penalidades legais ou prejuízos 
+financeiros.
+
+ Outro ponto importante é que as licenças de software ajudam a regular o mercado tecnológico, promovendo um 
+ambiente onde a inovação pode acontecer de maneira mais organizada e controlada. Elas também incentivam a 
+colaboração em projetos abertos, criando comunidades de desenvolvedores que trabalham em conjunto para melhorar o 
+software e beneficiar um número maior de pessoas.
+
+ Em suma, as licenças de software são a base que sustenta as relações entre desenvolvedores e usuários, além de 
+promover um ambiente equilibrado para o desenvolvimento tecnológico. Elas vão além de simples permissões de uso, 
+sendo peças-chave para garantir a inovação, a proteção intelectual e a segurança no mundo digital.
+
+
+
+                                     "Tipos Licenças de Software"
+
+
+
+

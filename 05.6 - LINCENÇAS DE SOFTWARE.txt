@@ -30,6 +30,82 @@ sendo peças-chave para garantir a inovação, a proteção intelectual e a segu
 
                                      "Tipos Licenças de Software"
 
+ Licenças de software são essenciais para definir as regras e condições sob as quais um programa pode ser 
+utilizado, distribuído, modificado ou vendido. Elas servem como uma espécie de contrato entre o criador do 
+software e o usuário, determinando os limites de uso e as permissões do software. Assim, dependendo do tipo de 
+licença adotada, as regras podem ser mais rígidas ou mais flexíveis, dando ao usuário liberdade para modificar o 
+software ou impondo restrições significativas.
 
+ Os tipos de licenças de software são variados, cada um com seu próprio propósito. Algumas licenças visam proteger 
+a propriedade intelectual dos desenvolvedores, garantindo que eles mantenham o controle sobre seu produto. Outras, 
+por sua vez, incentivam o compartilhamento e a colaboração, permitindo que os usuários modifiquem e distribuam 
+livremente o software.
+
+ Entender as diferenças entre as licenças de software é importante tanto para desenvolvedores quanto para 
+usuários. Desenvolvedores precisam escolher a licença que mais se alinha aos seus objetivos e visão de projeto. Já 
+os usuários devem estar cientes das limitações e liberdades que cada licença oferece, garantindo que eles possam 
+utilizar o software de acordo com suas necessidades.
+
+ Abaixo estão algumas das licenças de software mais utilizadas, abrangendo desde licenças proprietárias até licenças de software livre e de código aberto:
+
+
+ - Licença Proprietária: é um tipo de licença de software que restringe o uso, modificação e distribuição do 
+  programa pelo usuário. Ao contrário das licenças de software livre, que permitem que os usuários acessem e 
+  alterem o código-fonte, as licenças proprietárias mantêm o controle total sobre o software nas mãos do 
+  desenvolvedor ou da empresa que o criou. Isso significa que, quando você adquire um software proprietário, está 
+  essencialmente comprando o direito de usá-lo, mas não o código-fonte ou a capacidade de modificá-lo.
+
+   Essas licenças são comuns em muitos aplicativos comerciais, como sistemas operacionais, suítes de produtividade 
+  e programas de design gráfico. O objetivo é proteger os interesses do desenvolvedor, garantindo que o software 
+  não seja alterado de maneira não autorizada, além de permitir que a empresa monetize seu produto. Para muitos 
+  usuários, o software proprietário é uma escolha conveniente, pois geralmente vem com suporte técnico e 
+  atualizações regulares.
+
+    Principais Características:
+
+                             - Restrição de Acesso ao Código-Fonte: O código-fonte do software não é 
+                              disponibilizado aos usuários, o que impede a modificação ou análise profunda do 
+                              programa.
+
+                             - Licenciamento Pago: Geralmente, é necessário pagar uma taxa para obter a licença, 
+                              seja uma compra única ou uma assinatura recorrente.
+
+                             - Limitações de Uso: O uso do software é limitado às condições estabelecidas na 
+                              licença, podendo haver restrições quanto ao número de dispositivos em que pode ser 
+                              instalado.
+
+                             - Suporte e Atualizações: Os usuários geralmente têm acesso a suporte técnico e 
+                              atualizações, que são parte do serviço oferecido pelo desenvolvedor.
+
+                             - Direitos de Distribuição: A distribuição do software é estritamente controlada. O 
+                              usuário não pode compartilhar ou redistribuir o software sem autorização.
+
+    Exemplos Software: 
+
+                      Microsoft Windows: O sistema operacional Windows é um exemplo clássico de software 
+                                        proprietário. Os usuários compram uma licença para usar o sistema, mas não 
+                                        têm acesso ao código-fonte ou permissão para alterá-lo.
+
+                      Adobe Photoshop: É um software de edição de imagens que requer uma licença paga. Os usuários 
+                                      têm acesso a atualizações e suporte técnico, mas não podem modificar o 
+                                      software ou redistribuí-lo.
+
+                      AutoCAD: É um software de design assistido por computador (CAD) utilizado em arquitetura e 
+                              engenharia. Ele é vendido sob licença proprietária, permitindo apenas o uso conforme 
+                              as regras estabelecidas pela Autodesk, sua desenvolvedora.
+
+    Vantagens e Desvantagens: As licenças proprietárias oferecem vantagens significativas, como a garantia de 
+                             qualidade e segurança, já que o desenvolvedor controla o software. Os usuários também 
+                             têm acesso a suporte técnico, o que pode ser crucial em ambientes profissionais. Além 
+                             disso, a possibilidade de atualizações regulares e recursos inovadores é um atrativo 
+                             para muitos.
+
+   A Licença Proprietária desempenha um papel fundamental no ecossistema de software, especialmente em produtos    
+  comerciais. Embora ofereça uma série de vantagens, como controle e suporte, também impõe limitações aos 
+  usuários. Compreender essa licença é essencial para quem utiliza software em ambientes profissionais ou 
+  pessoais, pois influencia diretamente a maneira como os programas são adquiridos e utilizados. Em última 
+  análise, a escolha por software proprietário ou livre depende das necessidades individuais e das prioridades de 
+  cada usuário.
+  
 
 

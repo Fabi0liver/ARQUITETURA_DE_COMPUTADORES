@@ -71,7 +71,8 @@ usuários. Desenvolvedores precisam escolher a licença que mais se alinha aos s
 os usuários devem estar cientes das limitações e liberdades que cada licença oferece, garantindo que eles possam 
 utilizar o software de acordo com suas necessidades.
 
- Abaixo estão algumas das licenças de software mais utilizadas, abrangendo desde licenças proprietárias até licenças de software livre e de código aberto:
+ Abaixo estão algumas das licenças de software mais utilizadas, abrangendo desde licenças proprietárias até licenças
+de software livre e de código aberto:
 
 
  - Licença Proprietária: é um tipo de licença de software que restringe o uso, modificação e distribuição do 
@@ -621,7 +622,3 @@ apenas barreiras, mas também pontes que conectam pessoas e ideias.
 justa e eficiente. Elas asseguram que todos os envolvidos  desenvolvedores, usuários e até mesmo a comunidade em 
 geral  possam usufruir das tecnologias de forma segura e respeitosa. Ao entender e respeitar essas licenças, 
 contribuímos para um ambiente digital mais ético e colaborativo, onde a inovação e a criatividade podem prosperar.
-
-                        
-                               
-

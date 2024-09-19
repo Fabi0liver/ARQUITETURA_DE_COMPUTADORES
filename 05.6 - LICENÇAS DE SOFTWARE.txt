@@ -108,4 +108,60 @@ utilizar o software de acordo com suas necessidades.
   cada usuário.
   
 
+ - Introdução à GPL (General Public License):A Licença Pública Geral, mais conhecida como GPL, é uma das licenças 
+  de software livre mais populares e amplamente utilizadas no mundo. Criada pela Free Software Foundation, a GPL 
+  visa garantir que o software permaneça livre para todos os usuários, permitindo que eles usem, modifiquem e 
+  redistribuam o código. A ideia central por trás da GPL é que a liberdade dos usuários deve ser protegida, e que 
+  qualquer software baseado em um programa GPL também deve ser liberado sob os mesmos termos.
+
+   Essa licença se destaca por seu forte compromisso com a liberdade do usuário, assegurando que todos tenham   
+  acesso ao código fonte. Ao permitir modificações e redistribuição, a GPL promove um ambiente colaborativo onde 
+  desenvolvedores e usuários podem trabalhar juntos para melhorar o software. Isso não apenas enriquece a 
+  comunidade de software livre, mas também contribui para a evolução contínua das tecnologias.
+
+    Principais Características:
+
+                             - Liberdade de Uso: Usuários podem executar o software para qualquer propósito, sem 
+                              restrições.
+
+                             - Acesso ao Código Fonte: A GPL exige que o código fonte do software seja 
+                              disponibilizado, permitindo que os usuários o estudem e modifiquem.
+
+                             - Distribuição de Modificações: Qualquer modificação feita no software deve ser 
+                              liberada sob a mesma licença GPL, garantindo que a liberdade seja mantida.
+
+                             - Proibição de Licenças Restritivas: Software que utiliza GPL não pode ser          
+                              re-licenciado sob termos mais restritivos; isso protege os direitos dos usuários.
+
+                             - Compatibilidade: A GPL é projetada para ser compatível com outras licenças de 
+                              software livre, promovendo a colaboração entre projetos.
+
+    Exemplos Software:
+
+                      GNU/Linux: Uma das distribuições de sistema operacional mais conhecidas, o GNU/Linux é um 
+                                exemplo de software que usa a GPL. Sua comunidade ativa contribui constantemente 
+                                para o seu desenvolvimento e aprimoramento. 
+    
+                      GIMP (GNU Image Manipulation Program): Este software de edição de imagens é amplamente 
+                          utilizado como uma alternativa livre ao Adobe Photoshop. GIMP permite que os usuários 
+                          ajustem e melhorem o software conforme suas necessidades.
+
+                      VLC Media Player: Um dos players de mídia mais populares, o VLC é conhecido por sua 
+                                       capacidade de reproduzir uma ampla variedade de formatos de arquivo. A 
+                                       licença GPL permite que desenvolvedores aprimorem o software e adicionem 
+                                       novos recursos.
+
+    Vantagens e Desvantagens: Incluem a promoção da liberdade do usuário, a garantia de acesso ao código fonte e a 
+                             criação de um ambiente colaborativo para desenvolvimento de software. Além disso, o 
+                             modelo de licença permite que os usuários modifiquem o software de acordo com suas 
+                             necessidades específicas, o que pode resultar em inovações significativas.
+
+ A GPL é uma licença que defende os direitos dos usuários, promovendo a liberdade e a colaboração no 
+desenvolvimento de software. Ao garantir que o código permaneça aberto e acessível, a GPL não só fomenta a 
+inovação, mas também ajuda a construir uma comunidade forte de desenvolvedores e usuários. Com suas 
+características e implicações, a GPL continua a desempenhar um papel fundamental na evolução do software livre, 
+sendo uma escolha popular para muitos projetos de código aberto.
+                      
+  
+                               
 

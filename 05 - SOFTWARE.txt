@@ -81,6 +81,8 @@ software molda o modo como interagimos com a tecnologia diariamente. Sem softwar
 simplesmente não existeia, já que é ele quem permite que o hardware tenha utilidade real.
 
 
+                       "Influencia do Software no Hardware"
+
 
                                   "Tipos de Software"
 

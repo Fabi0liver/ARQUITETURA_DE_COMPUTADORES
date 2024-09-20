@@ -78,7 +78,7 @@ computação.
 com a usabilidade para o ser humano. Ele não apenas controla e gerencia os componentes físicos do sistema, mas 
 também garante que o usuário tenha uma experiência fluida e segura. Do controle de hardware à proteção de dados, o 
 software molda o modo como interagimos com a tecnologia diariamente. Sem software, a tecnologia como a convés 
-simplesmente não existeia, já que é ele quem permite que o hardware tenha utilidade real.
+simplesmente não existia, já que é ele quem permite que o hardware tenha utilidade real.
 
 
 

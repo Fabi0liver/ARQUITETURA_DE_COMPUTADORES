@@ -17,8 +17,8 @@ veja o trabalho sendo feito, ele é crucial para manter o carro em boas condiç�
  O software utilitário realiza diversas funções importantes, como proteger seu computador contra vírus e outras 
 ameaças, organizar e gerenciar seus arquivos para facilitar o acesso e melhorar o desempenho geral do sistema. 
 Esses programas muitas vezes operam em segundo plano, sem que você perceba, mas desempenham um papel vital na 
-saúde e na eficiência do seu computador. É como se o software utilitário fosse o serviço de manutenção que garante 
-que todos os componentes do seu sistema estejam funcionando corretamente e sem problemas.
+saúde e na eficiência do seu computador. É como se o software utilitário fosse o serviço de manutenção que 
+garante que todos os componentes do seu sistema estejam funcionando corretamente e sem problemas.
 
  Além das funções de proteção e organização, muitos softwares utilitários incluem ferramentas para fazer backup 
 dos seus dados, diagnosticar problemas e ajustar as configurações do sistema. Isso é essencial para evitar perda

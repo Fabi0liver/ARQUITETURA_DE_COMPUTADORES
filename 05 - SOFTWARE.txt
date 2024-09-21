@@ -141,7 +141,18 @@ funciona, influenciando no desempenho, compatibilidade e até na capacidade do s
 
  A principal influência está na compatibilidade e desempenho. Um software desenvolvido para 32 bits vai funcionar 
 em um sistema de 64 bits, mas não vai tirar proveito da capacidade total do hardware, como o uso de mais memória  RAM ou maior eficiência em processamentos pesados. Por outro lado, se o software for desenvolvido especificamente  para 64 bits, ele pode explorar ao máximo a performance do sistema, resultando em um funcionamento mais rápido e  fluido.
+
+ Além disso, a escolha entre 32 e 64 bits afeta diretamente o tipo de software que você pode instalar. Sistemas 
+operacionais de 64 bits são mais robustos e conseguem lidar com softwares modernos, enquanto sistemas de 32 bits 
+podem ter dificuldades de compatibilidade com programas recentes que exigem mais recursos.
+
+ Entender a diferença entre 32 bits e 64 bits é importante porque isso determina não só o desempenho do software, 
+mas também a longevidade do sistema. A arquitetura de 64 bits é hoje a mais comum e recomendada, já que oferece 
+mais flexibilidade e suporte para softwares modernos. No entanto, em dispositivos mais antigos, a arquitetura de 
+32 bits ainda pode ser suficiente para tarefas básicas. A escolha entre as duas arquiteturas influencia 
+diretamente a performance do software e como você poderá usar seu hardware.
    
+
 
                                          "Tipos de Software"
 

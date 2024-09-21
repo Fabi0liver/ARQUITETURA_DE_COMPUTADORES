@@ -115,7 +115,24 @@ maneira eficiente e agradável para os usuários.
 
  As arquiteturas de 32 bits (x32) e 64 bits (x64) se referem à forma como a agilidade de um computador trata as 
 informações. Essa diferença de bits pode parecer um detalhe técnico, mas tem um impacto direto em como o software 
-funciona, influenciando no desempenho, compatibilidade e até na capacidade do seu sistema
+funciona, influenciando no desempenho, compatibilidade e até na capacidade do seu sistema.
+
+- Arquitetura x32 (32 bits): Na arquitetura de 32 bits, o processador consegue lidar com blocos de dados de até     
+ 4 GB de memória RAM. Isso significa que, mesmo que você tenha mais de 4 GB de memória instalada no seu   
+ computador, ele só poderá usar até esse limite. Softwares feitos para 32 bits funcionam bem com essa limitação, 
+ mas acabam tendo uma performance mais restrita em tarefas que demandam muitos recursos, como edição de vídeo ou 
+ jogos pesados.
+
+  Um sistema operacional de 32 bits, por exemplo, só pode rodar aplicativos que também foram desenvolvidos para 
+ essa arquitetura. E mesmo que funcione bem para muitas tarefas cotidianas, como navegar na internet ou usar 
+ editores de texto, ele pode ser limitado para quem precisa de mais potência ou quer usar programas mais recentes.
+
+
+ - Arquitetura x64 (64 bits): Já a arquitetura de 64 bits é uma evolução natural que permite ao processador 
+  trabalhar com muito mais memória RAM – teoricamente até 18 quintilhões de gigabytes (algo muito maior do que 
+  qualquer computador doméstico precisaria). Na prática, isso significa que os sistemas operacionais e softwares 
+  de 64 bits conseguem aproveitar muito mais da capacidade do hardware, tornando o computador mais eficiente para 
+  lidar com grandes volumes de dados e executar várias tarefas ao mesmo tempo.
 
                                          "Tipos de Software"
 

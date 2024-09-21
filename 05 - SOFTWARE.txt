@@ -117,22 +117,31 @@ maneira eficiente e agradável para os usuários.
 informações. Essa diferença de bits pode parecer um detalhe técnico, mas tem um impacto direto em como o software 
 funciona, influenciando no desempenho, compatibilidade e até na capacidade do seu sistema.
 
-- Arquitetura x32 (32 bits): Na arquitetura de 32 bits, o processador consegue lidar com blocos de dados de até     
- 4 GB de memória RAM. Isso significa que, mesmo que você tenha mais de 4 GB de memória instalada no seu   
- computador, ele só poderá usar até esse limite. Softwares feitos para 32 bits funcionam bem com essa limitação, 
- mas acabam tendo uma performance mais restrita em tarefas que demandam muitos recursos, como edição de vídeo ou 
- jogos pesados.
+ - Arquitetura x32 (32 bits): Na arquitetura de 32 bits, o processador consegue lidar com blocos de dados de até     
+  4 GB de memória RAM. Isso significa que, mesmo que você tenha mais de 4 GB de memória instalada no seu   
+  computador, ele só poderá usar até esse limite. Softwares feitos para 32 bits funcionam bem com essa limitação, 
+  mas acabam tendo uma performance mais restrita em tarefas que demandam muitos recursos, como edição de vídeo ou 
+  jogos pesados.
 
-  Um sistema operacional de 32 bits, por exemplo, só pode rodar aplicativos que também foram desenvolvidos para 
- essa arquitetura. E mesmo que funcione bem para muitas tarefas cotidianas, como navegar na internet ou usar 
- editores de texto, ele pode ser limitado para quem precisa de mais potência ou quer usar programas mais recentes.
-
+   Um sistema operacional de 32 bits, por exemplo, só pode rodar aplicativos que também foram desenvolvidos para 
+  essa arquitetura. E mesmo que funcione bem para muitas tarefas cotidianas, como navegar na internet ou usar 
+  editores de texto, ele pode ser limitado para quem precisa de mais potência ou quer usar programas mais   
+  recentes.
 
  - Arquitetura x64 (64 bits): Já a arquitetura de 64 bits é uma evolução natural que permite ao processador 
   trabalhar com muito mais memória RAM – teoricamente até 18 quintilhões de gigabytes (algo muito maior do que 
   qualquer computador doméstico precisaria). Na prática, isso significa que os sistemas operacionais e softwares 
   de 64 bits conseguem aproveitar muito mais da capacidade do hardware, tornando o computador mais eficiente para 
   lidar com grandes volumes de dados e executar várias tarefas ao mesmo tempo.
+
+   Softwares feitos para 64 bits conseguem acessar e usar essa quantidade maior de memória, o que é crucial para 
+  programas pesados, como editores de vídeo, jogos em alta resolução e softwares profissionais de design. Além 
+  disso, computadores com sistemas de 64 bits também podem rodar programas de 32 bits, garantindo compatibilidade 
+  com versões anteriores. Isso oferece mais flexibilidade ao usuário.
+
+ A principal influência está na compatibilidade e desempenho. Um software desenvolvido para 32 bits vai funcionar 
+em um sistema de 64 bits, mas não vai tirar proveito da capacidade total do hardware, como o uso de mais memória  RAM ou maior eficiência em processamentos pesados. Por outro lado, se o software for desenvolvido especificamente  para 64 bits, ele pode explorar ao máximo a performance do sistema, resultando em um funcionamento mais rápido e  fluido.
+   
 
                                          "Tipos de Software"
 

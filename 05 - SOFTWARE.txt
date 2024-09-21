@@ -110,6 +110,13 @@ maneira eficiente e agradável para os usuários.
 
 
 
+
+                                  "Arquiteturas 32 bits e 64 bits"
+
+ As arquiteturas de 32 bits (x32) e 64 bits (x64) se referem à forma como a agilidade de um computador trata as 
+informações. Essa diferença de bits pode parecer um detalhe técnico, mas tem um impacto direto em como o software 
+funciona, influenciando no desempenho, compatibilidade e até na capacidade do seu sistema
+
                                          "Tipos de Software"
 
  Os diferentes tipos de software surgem justamente para atender a uma vasta gama de necessidades, tanto para 

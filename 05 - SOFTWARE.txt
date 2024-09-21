@@ -140,7 +140,10 @@ funciona, influenciando no desempenho, compatibilidade e até na capacidade do s
   com versões anteriores. Isso oferece mais flexibilidade ao usuário.
 
  A principal influência está na compatibilidade e desempenho. Um software desenvolvido para 32 bits vai funcionar 
-em um sistema de 64 bits, mas não vai tirar proveito da capacidade total do hardware, como o uso de mais memória  RAM ou maior eficiência em processamentos pesados. Por outro lado, se o software for desenvolvido especificamente  para 64 bits, ele pode explorar ao máximo a performance do sistema, resultando em um funcionamento mais rápido e  fluido.
+em um sistema de 64 bits, mas não vai tirar proveito da capacidade total do hardware, como o uso de mais memória  
+RAM ou maior eficiência em processamentos pesados. Por outro lado, se o software for desenvolvido especificamente 
+para 64 bits, ele pode explorar ao máximo a performance do sistema, resultando em um funcionamento mais rápido e 
+fluido.
 
  Além disso, a escolha entre 32 e 64 bits afeta diretamente o tipo de software que você pode instalar. Sistemas 
 operacionais de 64 bits são mais robustos e conseguem lidar com softwares modernos, enquanto sistemas de 32 bits 

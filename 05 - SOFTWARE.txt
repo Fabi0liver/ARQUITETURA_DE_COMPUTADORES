@@ -82,7 +82,7 @@ simplesmente não existia, já que é ele quem permite que o hardware tenha util
 
 
 
-                       "Influencia do Software no Hardware"
+                                "Influencia do Software no Hardware"
 
  O software e o hardware estão intimamente conectados no funcionamento de qualquer dispositivo eletrônico, como um 
 computador, um celular ou até mesmo uma TV inteligente. Para simplificar, pense no hardware como o corpo físico de 
@@ -110,7 +110,7 @@ maneira eficiente e agradável para os usuários.
 
 
 
-                                  "Tipos de Software"
+                                         "Tipos de Software"
 
  Os diferentes tipos de software surgem justamente para atender a uma vasta gama de necessidades, tanto para 
 usuários comuns quanto para empresas e desenvolvedores. Cada tipo de software é projetado para desempenhar funções 
@@ -295,8 +295,8 @@ para criar um sistema computacional completo. Cada um desses tipos tem sua impor
 desenvolvimento de sistemas, desde a interação com o hardware até o desenvolvimento de novos softwares.
 
 
-
-                                     "Licenças de Software"
+ 
+                                       "Licenças de Software"
 
  As licenças de software são acordos legais que determinam como o software pode ser usado, modificado e 
 distribuído. Eles estabelecem os direitos e restrições de quem utiliza ou desenvolve software, sendo essenciais 

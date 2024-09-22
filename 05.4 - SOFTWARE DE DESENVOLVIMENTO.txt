@@ -1,12 +1,12 @@
                                      SOFTWARE DE DESENVOLVIMENTO
 
 
- O software de desenvolvimento é uma categoria fundamental no universo da tecnologia, pois atua como uma ponte que 
-permite aos programadores criar, modificar e aprimorar outras aplicações. Diferentemente dos softwares que 
+ O software de desenvolvimento é uma categoria fundamental no universo da tecnologia, pois atua como uma ponte 
+que permite aos programadores criar, modificar e aprimorar outras aplicações. Diferentemente dos softwares que 
 utilizamos no cotidiano para realizar tarefas como navegar na internet ou editar textos, o software de 
-desenvolvimento é uma ferramenta utilizada por profissionais para construir suas próprias soluções tecnológicas. É 
-como o conjunto de instrumentos que uma arte usa para esculpir sua obra, permitindo transformar ideias em realidade 
-através da criação de códigos.
+desenvolvimento é uma ferramenta utilizada por profissionais para construir suas próprias soluções tecnológicas. 
+É como o conjunto de instrumentos que uma arte usa para esculpir sua obra, permitindo transformar ideias em 
+realidade através da criação de códigos.
 
  Esse tipo de software oferece uma plataforma robusta e personalizável para que os desenvolvedores programem 
 sistemas operacionais, aplicativos e até jogos. Ele inclui desde ambientes de desenvolvimento integrado (IDE), que 

@@ -5,8 +5,8 @@ Diferente dos softwares aplicativos ou sistemas operacionais, que podem ser faci
 atualizados pelo usuário, o firmware é projetado para trabalhar em sincronia direta com o hardware, garantindo que 
 os componentes funcionem corretamente. Ele pode ser visto como o "cérebro" básico de muitos dispositivos 
 eletrônicos, fornecendo instruções fundamentais para que eles liguem e operem de maneira adequada. Por exemplo, 
-sem o firmware, um computador sequer seria capaz de iniciar o sistema operacional, pois ele é responsável por essa 
-tarefa inicial.
+sem o firmware, um computador sequer seria capaz de iniciar o sistema operacional, pois ele é responsável por 
+essa tarefa inicial.
 
  Uma das características mais marcantes do firmware é que ele está gravado em chips de memória não volátil, como 
 ROM (Read-Only Memory) ou memória flash, o que garante que permaneça no dispositivo mesmo quando ele está 
